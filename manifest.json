@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generated": "2026-07-04T13:56:58Z",
+  "total": 3042,
+  "categories": [
+    {
+      "id": "art-gallery",
+      "name": "Art Gallery",
+      "count": 236,
+      "url": "categories/art-gallery.json"
+    },
+    {
+      "id": "google-earth",
+      "name": "Google Earth",
+      "count": 2395,
+      "url": "categories/google-earth.json"
+    },
+    {
+      "id": "google-photos",
+      "name": "Google Photos",
+      "count": 411,
+      "url": "categories/google-photos.json"
+    }
+  ]
+}
