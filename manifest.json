@@ -11,13 +11,6 @@
       "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery.json"
     },
     {
-      "id": "google-earth",
-      "name": "Google Earth",
-      "description": "2395 images",
-      "count": 2395,
-      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-earth.json"
-    },
-    {
       "id": "google-photos",
       "name": "Google Photos",
       "description": "411 images",
