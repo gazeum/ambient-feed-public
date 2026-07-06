@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-07-05T16:33:08Z",
-  "total": 3042,
+  "generated": "2026-07-06T04:24:59Z",
+  "total": 647,
   "sources": [
     {
       "id": "art-gallery",
@@ -9,13 +9,6 @@
       "description": "236 images",
       "count": 236,
       "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery.json"
-    },
-    {
-      "id": "google-earth",
-      "name": "Google Earth",
-      "description": "2395 images",
-      "count": 2395,
-      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-earth.json"
     },
     {
       "id": "google-photos",
