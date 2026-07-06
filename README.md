@@ -5,3 +5,5 @@ category. Updated automatically.
 
 - `manifest.json` — category index (id, name, count, generated timestamp)
 - `categories/*.json` — the assets per category (`url-1080`, `url-4K`, `title`, `added`)
+
+https://raw.githubusercontent.com/gazeum/ambient-feed-public/refs/heads/main/manifest.json
