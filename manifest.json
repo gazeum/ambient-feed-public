@@ -1,21 +1,28 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-07-09T08:40:53Z",
-  "total": 647,
+  "generated": "2026-07-12T17:01:38Z",
+  "total": 3042,
   "sources": [
     {
       "id": "art-gallery",
       "name": "Art Gallery",
       "description": "236 images",
       "count": 236,
-      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery.json"
+      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery/entries.json"
+    },
+    {
+      "id": "google-earth",
+      "name": "Google Earth",
+      "description": "2395 images",
+      "count": 2395,
+      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-earth/entries.json"
     },
     {
       "id": "google-photos",
       "name": "Google Photos",
       "description": "411 images",
       "count": 411,
-      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-photos.json"
+      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-photos/entries.json"
     }
   ]
 }
