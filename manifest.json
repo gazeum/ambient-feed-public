@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-09-10T05:51:33Z",
-  "total": 3042,
+  "generated": "2026-09-10T06:26:13Z",
+  "total": 3048,
   "sources": [
     {
       "id": "art-gallery",
@@ -9,6 +9,13 @@
       "description": "236 images",
       "count": 236,
       "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery/entries.json"
+    },
+    {
+      "id": "captured-on-pixel",
+      "name": "Captured on Pixel",
+      "description": "6 images",
+      "count": 6,
+      "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/captured-on-pixel/entries.json"
     },
     {
       "id": "google-earth",
