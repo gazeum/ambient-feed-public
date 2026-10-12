@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-05T13:09:42Z",
-  "total": 3048,
+  "generated": "2026-10-12T14:00:10Z",
+  "total": 2880,
   "sources": [
     {
       "id": "art-gallery",
       "name": "Art Gallery",
-      "description": "236 images",
-      "count": 236,
+      "description": "68 images",
+      "count": 68,
       "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/art-gallery/entries.json"
     },
     {

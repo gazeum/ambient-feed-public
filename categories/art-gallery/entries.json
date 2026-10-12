@@ -1,7 +1,7 @@
 {
   "category": "art-gallery",
   "name": "Art Gallery",
-  "count": 236,
+  "count": 68,
   "photos": [
     {
       "id": "ART_-AE3ILgtOID7ww",
@@ -27,8 +27,8 @@
       "id": "ART_-AGQoh-OMC_KLw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QJTkxsG1VmML7sy6Zxs4aRjfifz0gHZltIPFVt_C6I7MTCdPlIApT1txxZNzmGpLYYAIOe_ag=w1920-h1080-fcrop64=1,028f051efd6ff050",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QJTkxsG1VmML7sy6Zxs4aRjfifz0gHZltIPFVt_C6I7MTCdPlIApT1txxZNzmGpLYYAIOe_ag=s0-fcrop64=1,028f051efd6ff050",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q8L78mQsNeG-TYrmZJP4j1Ag_AinGOezRdyQhpSCKidyN6dNUiPsTzW8bqLLMfzHbw64kpWQk=w1920-h1080-fcrop64=1,028f051efd6ff050",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q8L78mQsNeG-TYrmZJP4j1Ag_AinGOezRdyQhpSCKidyN6dNUiPsTzW8bqLLMfzHbw64kpWQk=s0-fcrop64=1,028f051efd6ff050",
       "title": "A Little Red Note: Dordrecht • Artist: James McNeill Whistler",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -37,8 +37,8 @@
       "id": "ART_-AHKX3YL2CHzhg",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S1q-50MPsqbpnUwnf7DQNO9wkTZAnaS6Irr-2rxk8lKBPCIr6wGQ1nsg59xT3zZOnUPiUzZA=w1920-h1080-fcrop64=1,028f4a3dc73fe0c3",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S1q-50MPsqbpnUwnf7DQNO9wkTZAnaS6Irr-2rxk8lKBPCIr6wGQ1nsg59xT3zZOnUPiUzZA=s0-fcrop64=1,028f4a3dc73fe0c3",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SGAL7hqRr18SSpSvOUJG5tjSWomu9u6-onaDeZsQrCv47-KQ8AT_rrzKPV8O5-NL60SU2IqA=w1920-h1080-fcrop64=1,028f4a3dc73fe0c3",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SGAL7hqRr18SSpSvOUJG5tjSWomu9u6-onaDeZsQrCv47-KQ8AT_rrzKPV8O5-NL60SU2IqA=s0-fcrop64=1,028f4a3dc73fe0c3",
       "title": "Man and woman conversing across the verandah • Artist: Iwasa Matabei",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -47,19 +47,9 @@
       "id": "ART_-AHQ_vqVr9q-6g",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Sh9jhe6fLdgMdb7E_VM363e5mSdSRUhGNs25wWJnFJjLrIH9ihgz3WO14T8wgZ7ELoG0ZVbg=w1920-h1080-fcrop64=1,21470ccce485f401",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Sh9jhe6fLdgMdb7E_VM363e5mSdSRUhGNs25wWJnFJjLrIH9ihgz3WO14T8wgZ7ELoG0ZVbg=s0-fcrop64=1,21470ccce485f401",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SObbPkogfyZ-pbmgcTXGygPsOnb5Oa2ZWJZW_jtAMFUDnqRGUVWcM8DHHvrna6_Sh9jIyjsw=w1920-h1080-fcrop64=1,21470ccce485f401",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SObbPkogfyZ-pbmgcTXGygPsOnb5Oa2ZWJZW_jtAMFUDnqRGUVWcM8DHHvrna6_Sh9jIyjsw=s0-fcrop64=1,21470ccce485f401",
       "title": "Scene from Tales of Ise (?)",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_-QENImAhAoE9kw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SES5rLsTARvzJf_0gP1c1PcPLFlIFX_tQGrBANlUMUs-Czda1c2-bsiTJ5E32hoBzEGDfSPAo=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SES5rLsTARvzJf_0gP1c1PcPLFlIFX_tQGrBANlUMUs-Czda1c2-bsiTJ5E32hoBzEGDfSPAo=s0",
-      "title": "Bicicleta Sem Freio_420 Boyd St. • Do Art Foundation",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -87,8 +77,8 @@
       "id": "ART_-QH8xrVpyCQpcA",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQ9J7OJ_E7uPQtyEya_3C_Pr8CROWUl6DhMr-L5t2S1owrafNh8R6Pc1CVUzmxqrB9FdjjFAQ=w1920-h1080-fcrop64=1,11eb07aee5e7fd89",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQ9J7OJ_E7uPQtyEya_3C_Pr8CROWUl6DhMr-L5t2S1owrafNh8R6Pc1CVUzmxqrB9FdjjFAQ=s0-fcrop64=1,11eb07aee5e7fd89",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_ShcA4sLOltASBLkIthCLjm8lTuc9uurX9qJccar2_Y8JqZnB2QEaNYt56hWrb-yeHsp27MXY8=w1920-h1080-fcrop64=1,11eb07aee5e7fd89",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_ShcA4sLOltASBLkIthCLjm8lTuc9uurX9qJccar2_Y8JqZnB2QEaNYt56hWrb-yeHsp27MXY8=s0-fcrop64=1,11eb07aee5e7fd89",
       "title": "Off Norman's Woe • Edward Moran",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -134,52 +124,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_-wG6QmNLijM7kw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q2mcsiyi9I8e6MHNW9AA9v3azjRnj7ylNccGb6kLyK9zq7oWngRVmb7s1p_OmSDEbq-fot=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q2mcsiyi9I8e6MHNW9AA9v3azjRnj7ylNccGb6kLyK9zq7oWngRVmb7s1p_OmSDEbq-fot=s0",
-      "title": "Insolado • Pedro Perelman",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_-wG93Q1WGpqnpg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S7wNhpqa6RNqNRK18O2vpLO7YcJV1qHBFqLALLrU_33NgirzdT4DPe6Br1o8j6pMCEN13Q6NE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S7wNhpqa6RNqNRK18O2vpLO7YcJV1qHBFqLALLrU_33NgirzdT4DPe6Br1o8j6pMCEN13Q6NE=s0",
-      "title": "Sleeping fox • KRUELLA D'ENFER",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_-wH1uoTAMs2EsQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R1j6m-x6X5imsMfrk7i9PHGccjZDtORtsA4wujgZ1o74ywe6bHt41lU-q2BbU5d9FOMaertg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R1j6m-x6X5imsMfrk7i9PHGccjZDtORtsA4wujgZ1o74ywe6bHt41lU-q2BbU5d9FOMaertg=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tr8l-XCmZzsgqjNalmPsKw-CnhnQ4aDtBgme91XDpgL6NgT2urylJMMgEHhEaWc03X4OQU2w=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tr8l-XCmZzsgqjNalmPsKw-CnhnQ4aDtBgme91XDpgL6NgT2urylJMMgEHhEaWc03X4OQU2w=s0",
       "title": "Poppies • Robert William Vonnoh",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_0AHSnAM6s2LD8g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QDyO_rMAENrzBzhvH-D7bgCYPUGmKkePryjMxkw_CrMo3Wlvki2_4a1VwtKgFtT9rfytRVaA=w1920-h1080-fcrop64=1,000023d6fffffe04",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QDyO_rMAENrzBzhvH-D7bgCYPUGmKkePryjMxkw_CrMo3Wlvki2_4a1VwtKgFtT9rfytRVaA=s0-fcrop64=1,000023d6fffffe04",
-      "title": "De piscis a acuario • Gonzalo Ramírez Ruiz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_0QFCcrPPVulTfw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0Fdjn3_6mAiQ_89mwJohxQoeUK3XXJteEx45qcv1pfQREVNcOANsBECb-qzvBi6IbxEi9SZs=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0Fdjn3_6mAiQ_89mwJohxQoeUK3XXJteEx45qcv1pfQREVNcOANsBECb-qzvBi6IbxEi9SZs=s0",
-      "title": "Destiny • Skount",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -204,21 +154,11 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_0QGcmgoFDrUDOg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SSjIPFpCa9uhlsbD-aFYm7yI998Ozek2To-ifbo13atRVAtGv-JTuiawIEVhSkjtgLX-i7Eg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SSjIPFpCa9uhlsbD-aFYm7yI998Ozek2To-ifbo13atRVAtGv-JTuiawIEVhSkjtgLX-i7Eg=s0",
-      "title": "untitled • Hugo Lucas",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_0gHzVK_oYmf54A",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TpLAuo7gomtyUJkPwI3q2ADD0cTMmzhuCwemYMgtlYX9IWmo7mWX_GK6Q4fzz7IvenwWh0mw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TpLAuo7gomtyUJkPwI3q2ADD0cTMmzhuCwemYMgtlYX9IWmo7mWX_GK6Q4fzz7IvenwWh0mw=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHwZ11nOyabW6cqQLz0oaGFfD3Ad58T7_0EB-pluHMk6w-VoE0bvNXrYGOC502wgWMI2gJug=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHwZ11nOyabW6cqQLz0oaGFfD3Ad58T7_0EB-pluHMk6w-VoE0bvNXrYGOC502wgWMI2gJug=s0",
       "title": "Olevano Romano, Itália • Modesto Brocos y Gomes",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -257,29 +197,9 @@
       "id": "ART_1AFJqQGR5KY8VQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTa6Pi3iizMdX3p1kae61iV1gXpcB9wdZUd-2aMvdS9dYIgKMM7NCKXuZhLvUQ99zwE4Ep=w1920-h1080-fcrop64=1,00001999ffffe8ca",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTa6Pi3iizMdX3p1kae61iV1gXpcB9wdZUd-2aMvdS9dYIgKMM7NCKXuZhLvUQ99zwE4Ep=s0-fcrop64=1,00001999ffffe8ca",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVWHKPMfTneUxTuohIoZulgi_TXs5lSbKgUPMdr6V9fMrExNbQvMrilAMtvza_PXnevEuR=w1920-h1080-fcrop64=1,00001999ffffe8ca",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVWHKPMfTneUxTuohIoZulgi_TXs5lSbKgUPMdr6V9fMrExNbQvMrilAMtvza_PXnevEuR=s0-fcrop64=1,00001999ffffe8ca",
       "title": "Richmond, Yorkshire • William Callow",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_1AHys9RKBlD3fg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q-tNcD_oy3-bf7ZqZXSmQH9Nwwbf_RmnENIH8XgScUQHtBwfvAgY5f5NrpV0K1S2sfktcOPC8E=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q-tNcD_oy3-bf7ZqZXSmQH9Nwwbf_RmnENIH8XgScUQHtBwfvAgY5f5NrpV0K1S2sfktcOPC8E=s0",
-      "title": "Natureza Viva • Klit",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_1gHApyyYSzDHyQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TF8sz-jTUj94nCuZkc00XDCIWitiRnMqWYKs2iuJxQE6InlJS0h6pOE_KrcEXnGxfGVaUUDg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TF8sz-jTUj94nCuZkc00XDCIWitiRnMqWYKs2iuJxQE6InlJS0h6pOE_KrcEXnGxfGVaUUDg=s0",
-      "title": "Beginnings • Stinkfish",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -287,49 +207,9 @@
       "id": "ART_2gF3hrcpe_t11g",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SfBQ9slxtYnC0YGrYK0Mu4zHq1562ntwz4G1g2HjNY5wsUJC44EOQlRWs4FY4sT-YxqL-Mh1U=w1920-h1080-fcrop64=1,051e3333c271ffff",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SfBQ9slxtYnC0YGrYK0Mu4zHq1562ntwz4G1g2HjNY5wsUJC44EOQlRWs4FY4sT-YxqL-Mh1U=s0-fcrop64=1,051e3333c271ffff",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHdiSt5WmkO71jD36bfEh5owtRagDzifOQAkg3cc6dn6mc1NqOuVrKxlXeXPqkLoFmn7pqrHA=w1920-h1080-fcrop64=1,051e3333c271ffff",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHdiSt5WmkO71jD36bfEh5owtRagDzifOQAkg3cc6dn6mc1NqOuVrKxlXeXPqkLoFmn7pqrHA=s0-fcrop64=1,051e3333c271ffff",
       "title": "Arrival of the Imperial Prince at Shimbashi Station • Artist: Kobayashi Kiyochika",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_2gFGF2LCVRrNlA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tf6nH0G75ogt0XU3ByjC9GX3xYWJog62EHcJ4HsKc5xN50IH6lEwkuYCWkkrd-VcCF-E4TY1k=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tf6nH0G75ogt0XU3ByjC9GX3xYWJog62EHcJ4HsKc5xN50IH6lEwkuYCWkkrd-VcCF-E4TY1k=s0",
-      "title": "Untitled - (Martin Luther King) • CASE",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_2wFQ0XmhmP9wPA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SDFSLFrccrkQZJTEXkkq2jWjJaQXA3gAqmXy5aEBhzUjDgAI_xT1f77yzqyP55AIP7TjpbqKSC=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SDFSLFrccrkQZJTEXkkq2jWjJaQXA3gAqmXy5aEBhzUjDgAI_xT1f77yzqyP55AIP7TjpbqKSC=s0",
-      "title": "The Bird of Happiness • Natasha Pastukhova",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_3AENHSZELXSV4Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUJX_NoT2k7c1EOr-GJ1NIjNH65HKjwFjoxJnB83DVwVWCWd4rQ5eXVh7ImKLdqqZL5QIt8g=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUJX_NoT2k7c1EOr-GJ1NIjNH65HKjwFjoxJnB83DVwVWCWd4rQ5eXVh7ImKLdqqZL5QIt8g=s0",
-      "title": "Untitled • Bert Van Wink",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_3QFVVIULJWd5pQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROr-PlmFTNGjNRuScut_nMx1jp95xS4RM0WwQVUDb6z_yCh63LBOWWHBPBnc_qr95mNl_wAw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROr-PlmFTNGjNRuScut_nMx1jp95xS4RM0WwQVUDb6z_yCh63LBOWWHBPBnc_qr95mNl_wAw=s0",
-      "title": "Spring Offering • Pau",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -344,52 +224,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_3gEkOAWODFwRWg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RAyd9UF4H9i8R24YpqNgWuZBHt7yhDLOwuE8-wm3KrOGYIMEjs6-tgUYtKbxoI8r6fwFR1cAI=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RAyd9UF4H9i8R24YpqNgWuZBHt7yhDLOwuE8-wm3KrOGYIMEjs6-tgUYtKbxoI8r6fwFR1cAI=s0",
-      "title": "unknown • CHRIS \"DAZE\" ELLIS",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_3wG0_IgukkpPlg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QndKRkJDcXxKf1dCPvM9WwNoQQOonl87yCABA-UrhkBM0bnQFAUtbOxIGdO8_W-MJ1EyCZl8U=w1920-h1080-fcrop64=1,000011ebb699fe0a",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QndKRkJDcXxKf1dCPvM9WwNoQQOonl87yCABA-UrhkBM0bnQFAUtbOxIGdO8_W-MJ1EyCZl8U=s0-fcrop64=1,000011ebb699fe0a",
-      "title": "Dancers • Sabine Kunz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_4AFLPPXujseO3Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SXeKCU_AYSc8Uscj3UZQFMmHaaQ5DLP8Kw6Vm_lsOgyjk3vBGKyQPSxgNZTK10kWcCDB5ifRVS=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SXeKCU_AYSc8Uscj3UZQFMmHaaQ5DLP8Kw6Vm_lsOgyjk3vBGKyQPSxgNZTK10kWcCDB5ifRVS=s0",
-      "title": "We're All the Same • Icy and Sot",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_4wHhm-1_kTN27g",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qq9rFvTqPczL8VS-HcW7mle0UBcq78nuhQgDc0f95mB6JZFey9o19fBQG4DmUuGLBDeDrcKQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qq9rFvTqPczL8VS-HcW7mle0UBcq78nuhQgDc0f95mB6JZFey9o19fBQG4DmUuGLBDeDrcKQ=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tr46N9wqlSm-oP86JjQgr0VXLiJddJWmqND-5yn-ChX34oEUmgT2V0IIJrWnTwtSgqHn2lNg=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tr46N9wqlSm-oP86JjQgr0VXLiJddJWmqND-5yn-ChX34oEUmgT2V0IIJrWnTwtSgqHn2lNg=s0",
       "title": "Ponte da Tabatinguera • Almeida Júnior",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_5QGe-guZpnav3g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SAZvzQs6LM-JOl0J8Dz6N6mAZJ9Br53J_5OXXH9qzAvSb4lIY1PfkoDZ4vfF5ORojRxgSKiQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SAZvzQs6LM-JOl0J8Dz6N6mAZJ9Br53J_5OXXH9qzAvSb4lIY1PfkoDZ4vfF5ORojRxgSKiQ=s0",
-      "title": "Connectivity • Ninetta",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -397,19 +237,9 @@
       "id": "ART_5wFVABmBDNF3Bw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qs-YfjAH2fbuEzbtQvnp5R6zJAQt54qys_HL6P5XRfyJWACORQYodxj30CYfRmbzzkwvubwjA=w1920-h1080-fcrop64=1,30a323d6efc8f0a2",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qs-YfjAH2fbuEzbtQvnp5R6zJAQt54qys_HL6P5XRfyJWACORQYodxj30CYfRmbzzkwvubwjA=s0-fcrop64=1,30a323d6efc8f0a2",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SxUixPdh0wL9pUHyM48SobvhIVEj5Vk53s0yx3TeE4gL2OhKz-ScKrhwg-8m30-kbl-XQm7mk=w1920-h1080-fcrop64=1,30a323d6efc8f0a2",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SxUixPdh0wL9pUHyM48SobvhIVEj5Vk53s0yx3TeE4gL2OhKz-ScKrhwg-8m30-kbl-XQm7mk=s0-fcrop64=1,30a323d6efc8f0a2",
       "title": "Patrol At The Edge Of Camp • Artist: Tatsuta Nitta",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_6AEEGzQhZ-sNUA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TjeOPWrdawgVHzDg-4pP-5ZY3BN3HjllGjEHh22akbc7CvXmL4xlUfInkcV6mEFr9fnpf1ng=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TjeOPWrdawgVHzDg-4pP-5ZY3BN3HjllGjEHh22akbc7CvXmL4xlUfInkcV6mEFr9fnpf1ng=s0",
-      "title": "Untitled • VHILS",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -417,19 +247,9 @@
       "id": "ART_6AEpGpxsSyrAaw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RglfmSGsBXPixlr8IuW-uXXNQHWYzTIQV5r9OE3TbE9cL3T8G-ry50nSBuAYOPlNmn0MQWNA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RglfmSGsBXPixlr8IuW-uXXNQHWYzTIQV5r9OE3TbE9cL3T8G-ry50nSBuAYOPlNmn0MQWNA=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHQZGvY98LEbgdX0rL3yfTCIwyM3h0eSg7_wHCOKEmVHTFgSXyipfEImXPsXrjNs7GfuJoig=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QHQZGvY98LEbgdX0rL3yfTCIwyM3h0eSg7_wHCOKEmVHTFgSXyipfEImXPsXrjNs7GfuJoig=s0",
       "title": "Estudo para \"Partição da Monção\" • Almeida Júnior",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_6AFFUqdrCxwLGg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QaT-URnF8mZ-e9tgwJYVwFjttl_Gwq8ZDvW0TFLsldI1giRyqQiKE68GzD8KBQnPVxVHtMwXdp=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QaT-URnF8mZ-e9tgwJYVwFjttl_Gwq8ZDvW0TFLsldI1giRyqQiKE68GzD8KBQnPVxVHtMwXdp=s0",
-      "title": "POW! WOW! Hawaii 2014 - Ironman Mural • Meggs, Bask",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -437,29 +257,9 @@
       "id": "ART_6AH_PbHM_eyuMQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SQlhNzSyTlFErG-EuYbcrDSYE-o-c1GXGmioSh0CEIsibqMfWcM9GD_49VCy77R5oMJUgHBg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SQlhNzSyTlFErG-EuYbcrDSYE-o-c1GXGmioSh0CEIsibqMfWcM9GD_49VCy77R5oMJUgHBg=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TyD7eT2KhpMb11xtuIDj8QoldskY6h1axlLBNnMU48axVLBqHcK_Mfm3pxb4FX7w-6FviDfg=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TyD7eT2KhpMb11xtuIDj8QoldskY6h1axlLBNnMU48axVLBqHcK_Mfm3pxb4FX7w-6FviDfg=s0",
       "title": "Paisagem • João Baptista da Costa",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_6QHxk3a6wmMOYg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TrYl4dGr7kz0RScneslA36WjpW7TJksOLORm09qrWAuo6WBr32beql2wVR6_PVpRU6tXWoXCM4=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TrYl4dGr7kz0RScneslA36WjpW7TJksOLORm09qrWAuo6WBr32beql2wVR6_PVpRU6tXWoXCM4=s0",
-      "title": "Untitled • Zerneri",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_7AGoA_ZvrtuJcA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qxzm5BbNajN4Aq8_08nSyMS9-xOacMhA4FuanOa2zUjCI03Hpwx0T67iM_MpVb0a31DFuSag=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qxzm5BbNajN4Aq8_08nSyMS9-xOacMhA4FuanOa2zUjCI03Hpwx0T67iM_MpVb0a31DFuSag=s0",
-      "title": "Untitled • Poeta",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -474,41 +274,11 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_7QHp4TdyGqW0IA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SGhzyet6EZgejqhGxw6VLDtMTm4kdwyWxQ9bR53wXnksHSZABuDwvo28T4GY58_c12LwIEcg4=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SGhzyet6EZgejqhGxw6VLDtMTm4kdwyWxQ9bR53wXnksHSZABuDwvo28T4GY58_c12LwIEcg4=s0",
-      "title": "Untitled - (Boy and Robot) • Pixel Pancho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_7gG-k0CP2btzIA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R17f9viYLLfpWiduNA3YovLHoav8bZz01PTOPUYHlIp-dLyyza_8t47z4De-OrlyiV4PC_bDI=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R17f9viYLLfpWiduNA3YovLHoav8bZz01PTOPUYHlIp-dLyyza_8t47z4De-OrlyiV4PC_bDI=s0",
-      "title": "Freedom • Icy & Sot",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_7gHXglda5Op7zA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S6lQ_LTGlO-wR44sEDfIihgjeyqgyCdpLLrr3q7xLFsBGAmN3L3-E46FWq2DXimWkhccfJgSs=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S6lQ_LTGlO-wR44sEDfIihgjeyqgyCdpLLrr3q7xLFsBGAmN3L3-E46FWq2DXimWkhccfJgSs=s0",
-      "title": "POW! WOW! Hawaii 2011: Mural by Prime • Prime, Trek6, Mike Bam, Estria",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_7wFNjNw91lfbOQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QE9s9tJ_iIIAfdLfC7XNBG_F4_VHPNydjc-GVxqZj_WkFhSsjveQc3oepBL1Im3mGLQEQbpA=w1920-h1080-fcrop64=1,00001999fffffe2a",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QE9s9tJ_iIIAfdLfC7XNBG_F4_VHPNydjc-GVxqZj_WkFhSsjveQc3oepBL1Im3mGLQEQbpA=s0-fcrop64=1,00001999fffffe2a",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SM6VgPL31w_YWJ7PXu6ViPwkVzl7VEsOBypY55iW7inbUEgwkHuxxs19uPxQZvfSS-Y8Zuzg=w1920-h1080-fcrop64=1,00001999fffffe2a",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SM6VgPL31w_YWJ7PXu6ViPwkVzl7VEsOBypY55iW7inbUEgwkHuxxs19uPxQZvfSS-Y8Zuzg=s0-fcrop64=1,00001999fffffe2a",
       "title": "Jebel Cherib • Eugene von Guérard",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -517,39 +287,9 @@
       "id": "ART_8AH8xjm7kSBX7w",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTqbrj7Aq-vJGfPbYF8x1tq49srLQ9zloijEQQAsZW4xm7PUduZ1TzIxeMKR8AkeeZQnijEw=w1920-h1080-fcrop64=1,199930a3e665c363",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTqbrj7Aq-vJGfPbYF8x1tq49srLQ9zloijEQQAsZW4xm7PUduZ1TzIxeMKR8AkeeZQnijEw=s0-fcrop64=1,199930a3e665c363",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RVq-o6jxWVXWc-7x3Dm3D1uIQdwzNfC2NNQsFItATpg3EyVIW3Xu3KLNBnt6bOsCRxdjYZFg=w1920-h1080-fcrop64=1,199930a3e665c363",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RVq-o6jxWVXWc-7x3Dm3D1uIQdwzNfC2NNQsFItATpg3EyVIW3Xu3KLNBnt6bOsCRxdjYZFg=s0-fcrop64=1,199930a3e665c363",
       "title": "The Mountain • Artist: Charles Adams Platt",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_8QF_BeCQMJmQcQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RSzDExVPShOmhvUGA3wh5uNn08fwGr9aqnXvusH9gF8sLXGoGqylpZMGv6jc7Mb37Z7Yt7sPvy=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RSzDExVPShOmhvUGA3wh5uNn08fwGr9aqnXvusH9gF8sLXGoGqylpZMGv6jc7Mb37Z7Yt7sPvy=s0",
-      "title": "Untitled - (Seed Pods and Patrick Barry) • OVERUNDER",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_8gE7ivLwhZHbbw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q6xZ-cZMEdkErnNpQsNepeluzhJSB6L1aF7VrJidrTS5zUdu0hxF9hx41g-YHOycR8EfWv8Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q6xZ-cZMEdkErnNpQsNepeluzhJSB6L1aF7VrJidrTS5zUdu0hxF9hx41g-YHOycR8EfWv8Q=s0",
-      "title": "Mobilette • MÁRIO BELÉM",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_8gF0L_QTmtwgjA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SIpJpQ-hB51f3L_GtsE-EQZD2d2hrwjCNEsxfiv-OWMmuLNMbTKkZAo3t3WF7dQiKQJe28m01H=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SIpJpQ-hB51f3L_GtsE-EQZD2d2hrwjCNEsxfiv-OWMmuLNMbTKkZAo3t3WF7dQiKQJe28m01H=s0",
-      "title": "Spirit Travel • Andy Weiss",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -557,19 +297,9 @@
       "id": "ART_8gG2Jc1cAQe7pQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q5OVjBlj5xeILo5vSqc3ZMnS80_YNXjIfTtzhLSgCJ-eX9kMEBEQbZz2uROHDs_LERhLpWzk10=w1920-h1080-fcrop64=1,11eb547adeb7e91f",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q5OVjBlj5xeILo5vSqc3ZMnS80_YNXjIfTtzhLSgCJ-eX9kMEBEQbZz2uROHDs_LERhLpWzk10=s0-fcrop64=1,11eb547adeb7e91f",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tum4VY4oO_7GGB5dwuO3UwOtU6-rGwY1i8WJl4GYqNDI9fFD_pF-s6y3iZKVz5jxkCsky_44pN=w1920-h1080-fcrop64=1,11eb547adeb7e91f",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tum4VY4oO_7GGB5dwuO3UwOtU6-rGwY1i8WJl4GYqNDI9fFD_pF-s6y3iZKVz5jxkCsky_44pN=s0-fcrop64=1,11eb547adeb7e91f",
       "title": "Vishnu Appears to King Muchukunda in a Cave in the Himalayas",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_8wEWd11igUFxQQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9AhypE9IHjmwvJTLQHX2wL-aY-qCQvmjSE7PLXCWC584HQ8Gxmi5sJcf4gUb2vVRGr4Wd2Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9AhypE9IHjmwvJTLQHX2wL-aY-qCQvmjSE7PLXCWC584HQ8Gxmi5sJcf4gUb2vVRGr4Wd2Q=s0",
-      "title": "unknown • Museum of Public Art",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -577,29 +307,9 @@
       "id": "ART_8wFAP2hmAMwAPQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tet-gJmNzaYy0oPAb4-LCqrHpNDBuj95ansgCpukEiq2vPiXd6laXC_zVLsvT4TZWjqFHtUDYi=w1920-h1080-fcrop64=1,00000000fedbffff",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tet-gJmNzaYy0oPAb4-LCqrHpNDBuj95ansgCpukEiq2vPiXd6laXC_zVLsvT4TZWjqFHtUDYi=s0-fcrop64=1,00000000fedbffff",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RL0wkTi1e0ed8aASV6Qc0nA0vEby7WkilAfHpR8_TYA524T4TCujIL1GwSq1yztEl3RG1mR7IK=w1920-h1080-fcrop64=1,00000000fedbffff",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RL0wkTi1e0ed8aASV6Qc0nA0vEby7WkilAfHpR8_TYA524T4TCujIL1GwSq1yztEl3RG1mR7IK=s0-fcrop64=1,00000000fedbffff",
       "title": "Milford Sound, New Zealand • Eugene von Guérard",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_9AFe4Edyw6xxZg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TpOVMjkuENU9iCRFLtDXVX1I__XQ9h6-9P6OdDKE7mtqp9C8uvYVuwRtCNR9eTrZW3PoVTjUw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TpOVMjkuENU9iCRFLtDXVX1I__XQ9h6-9P6OdDKE7mtqp9C8uvYVuwRtCNR9eTrZW3PoVTjUw=s0",
-      "title": "unknown • MUSEUM OF PUBLIC ART",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_9AH1X2TZikvdHg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RBCwij9WYBBUtLuhWi886CASj0IXp08KyaJ_fWtmycQr2BSsASvFQzG82TFN_-PU0S4sG13w=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RBCwij9WYBBUtLuhWi886CASj0IXp08KyaJ_fWtmycQr2BSsASvFQzG82TFN_-PU0S4sG13w=s0",
-      "title": "POW! WOW! Hawaii 2014 - Katch Mural • Katch",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -607,19 +317,9 @@
       "id": "ART_9AHPBFlJQLUt1Q",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S_g1tJu5dqWvaeul2gH4R3zZv72RE3FHcpzVK_EcE7HG5in3Tu61a0a9g094WYdHpDozZrug=w1920-h1080-fcrop64=1,147a28f5cffbf5c1",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S_g1tJu5dqWvaeul2gH4R3zZv72RE3FHcpzVK_EcE7HG5in3Tu61a0a9g094WYdHpDozZrug=s0-fcrop64=1,147a28f5cffbf5c1",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SBvXbHK2BO8XRxiELsp_2rV_U1qmI8apb7TRCMiYBU2TyDt3AwUorCWS7ixhyGkWOdVpw8PQ=w1920-h1080-fcrop64=1,147a28f5cffbf5c1",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SBvXbHK2BO8XRxiELsp_2rV_U1qmI8apb7TRCMiYBU2TyDt3AwUorCWS7ixhyGkWOdVpw8PQ=s0-fcrop64=1,147a28f5cffbf5c1",
       "title": "Festivals of the Twelve Months • Artist: Miyagawa Choshun",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_9QHm3nxyPS0USg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SRBD48c8hjVQWb067h9O4uVdwCgeKWFZe3-J6xuLdW1RgNRrnSokN7ZLEi-0SBBSHaGdeHwXQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SRBD48c8hjVQWb067h9O4uVdwCgeKWFZe3-J6xuLdW1RgNRrnSokN7ZLEi-0SBBSHaGdeHwXQ=s0",
-      "title": "Untitled • Punch",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -634,52 +334,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_AwHCpaJKgJ7Enw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S3sYRIlznRXlyj_oBpo1L7VO1Mdd3ihbVhLGq6OR_A-Y9Q7sG72X9D__YoXGS66Utq26u4tM3Z=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S3sYRIlznRXlyj_oBpo1L7VO1Mdd3ihbVhLGq6OR_A-Y9Q7sG72X9D__YoXGS66Utq26u4tM3Z=s0",
-      "title": "Je ne regrette rien • AKACORLEONE + KRUELLA D’ENFER",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_BAFI3mEYdHf5Kw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TK-tIwaTXYQ9_J2j2ueGkt-hS54v63OtQOC4QcgEPT19FXlJUINFqqxKf2xsb0J7u67Y2C2wk=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TK-tIwaTXYQ9_J2j2ueGkt-hS54v63OtQOC4QcgEPT19FXlJUINFqqxKf2xsb0J7u67Y2C2wk=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzPbATpRWE-IMndVjtoHb4wwXzurE9EFKD_mFGQmHoS_JsK_nPm5rcOSJ6zGw6otJTUsvtdKI=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzPbATpRWE-IMndVjtoHb4wwXzurE9EFKD_mFGQmHoS_JsK_nPm5rcOSJ6zGw6otJTUsvtdKI=s0",
       "title": "Santos • Dario Villares Barbosa",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_BwHMcE2ACEoQqA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q5cc5APDD7eHj4Lwa63C6gN4ZgM-fuK7rapWgzxHgeZFWcK8FXL-DmWVfOxSUODrOZpKvM4y4=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q5cc5APDD7eHj4Lwa63C6gN4ZgM-fuK7rapWgzxHgeZFWcK8FXL-DmWVfOxSUODrOZpKvM4y4=s0",
-      "title": "untitled • Uivo",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_CQHn_vWNCZjcuA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QQ-i86t3jeQHxzXojzDEDMwfAHKc1C8RFg-HHhIekJ_LW5Nbkx7T9rkMDNISthC6UEvfE78IvH=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QQ-i86t3jeQHxzXojzDEDMwfAHKc1C8RFg-HHhIekJ_LW5Nbkx7T9rkMDNISthC6UEvfE78IvH=s0",
-      "title": "New World Revolution • Mear One",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_CgGefTJ2HilnDA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Ro2twcGpPSGM8w2TxaOKrta4c9V3GU1P0KYoAkaop9H_30U6HYexnPNnxDyVoiw9oakn5hqJE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Ro2twcGpPSGM8w2TxaOKrta4c9V3GU1P0KYoAkaop9H_30U6HYexnPNnxDyVoiw9oakn5hqJE=s0",
-      "title": "Glory • Pez Pescao & Danny Recal",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -694,56 +354,6 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_DAHJJ5S1a8tUGA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S8zTLS3qkRSykM5a2vLIhYOLLXDGvidf4x1LUqZYHp0gzApyIcLUAB1fSG6f9HiG82pdGrMw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S8zTLS3qkRSykM5a2vLIhYOLLXDGvidf4x1LUqZYHp0gzApyIcLUAB1fSG6f9HiG82pdGrMw=s0",
-      "title": "POW! WOW! Hawaii 2014 - Reach Mural • Reach",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_DQFljd7q4qse6A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RnefzrbRpaqFJHIcjYP7FRJcf6alL12WJEAHO_sDfegRIdsPdON_4n7zshFW37hr0UmCevXw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RnefzrbRpaqFJHIcjYP7FRJcf6alL12WJEAHO_sDfegRIdsPdON_4n7zshFW37hr0UmCevXw=s0",
-      "title": "Crossroads Mural, 3 • Saaret Yoseph",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_EAG6gMl4jqAp8A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TD7HAcLvUVijkpxCAlsBf2yxGGLswUe13JYFIS9n9RM8QCBKdLuWh7xfTTT4dx_C2YO82U3Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TD7HAcLvUVijkpxCAlsBf2yxGGLswUe13JYFIS9n9RM8QCBKdLuWh7xfTTT4dx_C2YO82U3Q=s0",
-      "title": "Untitled • rundontwalk",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_EQEzypPjsDL8MA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QTvq-rynOfk49zsEDTZYVh1aqxNbjzVC7ufsJHkI6XrM7iZmCTaWxF9iYsNXVIslcuu-4XqWWX=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QTvq-rynOfk49zsEDTZYVh1aqxNbjzVC7ufsJHkI6XrM7iZmCTaWxF9iYsNXVIslcuu-4XqWWX=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_EgF8AGk0rvWx8Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzL53SgfRT1JhfRu8qK4OqvGcCp7QmIq5Bcm6EGQ6e-PPF-Vt_0-IlxGJL3zA-oXA6addy9_M=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzL53SgfRT1JhfRu8qK4OqvGcCp7QmIq5Bcm6EGQ6e-PPF-Vt_0-IlxGJL3zA-oXA6addy9_M=s0",
-      "title": "Untitled • Nomen",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_EgHZTTqrQIxWHw",
       "category": "art-gallery",
       "source": 9,
@@ -754,21 +364,11 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_FAGdJQ7jgHD4fg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVNyHu8PZAi1JfAFv5y10ULk2EswBYPvznVHaY32FKZhviFgZcyma7HPmSfJZ3a83NqOQGnLs=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVNyHu8PZAi1JfAFv5y10ULk2EswBYPvznVHaY32FKZhviFgZcyma7HPmSfJZ3a83NqOQGnLs=s0",
-      "title": "Freedom • Icy & Sot",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_FQFUhvVhrF5H9Q",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RkVrJpQRGARI_9ipH8PPTRKIPQNAlU9BY0Dvxy8x2Gh43LRKXH9F5EstfL6vv0IotA90EZPuQ=w1920-h1080-fcrop64=1,00004cccffffd360",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RkVrJpQRGARI_9ipH8PPTRKIPQNAlU9BY0Dvxy8x2Gh43LRKXH9F5EstfL6vv0IotA90EZPuQ=s0-fcrop64=1,00004cccffffd360",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9Z37CzAqVzI1v-tjg4uESj7qxTktJzb8ncON7AbGIusFXbWX5tToH5528L_QfAQTRKgKuhhw=w1920-h1080-fcrop64=1,00004cccffffd360",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9Z37CzAqVzI1v-tjg4uESj7qxTktJzb8ncON7AbGIusFXbWX5tToH5528L_QfAQTRKgKuhhw=s0-fcrop64=1,00004cccffffd360",
       "title": "Waterfall (Study) • Friedrich Nerly",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -777,8 +377,8 @@
       "id": "ART_FQGCv3VmbCcxow",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Ty3HjkHXd8xnQaMCukLzhIGYLZVMvlviqurFQXqOhfsnjetvr-NtwUwkoEY1d673SBdySkwuwS=w1920-h1080-fcrop64=1,00003333ffffdb9e",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Ty3HjkHXd8xnQaMCukLzhIGYLZVMvlviqurFQXqOhfsnjetvr-NtwUwkoEY1d673SBdySkwuwS=s0-fcrop64=1,00003333ffffdb9e",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TgeAmEudnqW2ySvwV2z59VDd23i8dCsXI4Wi7NWnsgBwE_ftI9XtKQRYiDAPYeDsPtgm1EonqU=w1920-h1080-fcrop64=1,00003333ffffdb9e",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TgeAmEudnqW2ySvwV2z59VDd23i8dCsXI4Wi7NWnsgBwE_ftI9XtKQRYiDAPYeDsPtgm1EonqU=s0-fcrop64=1,00003333ffffdb9e",
       "title": "The Rocks • Vincent van Gogh",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -787,8 +387,8 @@
       "id": "ART_FQHRL3bS_yHFIQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QNl2QGrFW-mnlHKat0fbzVNjekRM5Rciq0w5QV5htPkJHENZsWRz4tZjl6LSPLjJv_uVbqKXA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QNl2QGrFW-mnlHKat0fbzVNjekRM5Rciq0w5QV5htPkJHENZsWRz4tZjl6LSPLjJv_uVbqKXA=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RP0zOdi01i9amd-1BNH5qHlt-cDQZa9N7_woWBQSNeHdTijjmc6GhXDh72kK1TiCP3PoBXGDs=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RP0zOdi01i9amd-1BNH5qHlt-cDQZa9N7_woWBQSNeHdTijjmc6GhXDh72kK1TiCP3PoBXGDs=s0",
       "title": "Untitled • Aref El Rayess",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -797,8 +397,8 @@
       "id": "ART_GAEJjgqfitikyw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QeGiez82aZdRDVkLKRTyfdI7bWkZXf8F5Ac-fAJypUFfk2haEVIZI5xpKjkry1QJoq4MCU3w=w1920-h1080-fcrop64=1,00003333ffffa665",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QeGiez82aZdRDVkLKRTyfdI7bWkZXf8F5Ac-fAJypUFfk2haEVIZI5xpKjkry1QJoq4MCU3w=s0-fcrop64=1,00003333ffffa665",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RWGvkLE4vYisVeORgroQ9ij-434tM4A2DkmSEVtn7LYjaPmxaKD58nqRR1_9u9tx8kpIbWOA=w1920-h1080-fcrop64=1,00003333ffffa665",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RWGvkLE4vYisVeORgroQ9ij-434tM4A2DkmSEVtn7LYjaPmxaKD58nqRR1_9u9tx8kpIbWOA=s0-fcrop64=1,00003333ffffa665",
       "title": "Port-Goulphar, Belle-Île • Claude Monet",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -807,39 +407,9 @@
       "id": "ART_GgE8CbhnqhxFVg",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TV-5RitFADSJABin9RzJmChbGqmtTXxEq-j34tyNKTTQnaCrdop3Al45DZyeXF-7SteSNdQfG8=w1920-h1080-fcrop64=1,00004f5bffffea31",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TV-5RitFADSJABin9RzJmChbGqmtTXxEq-j34tyNKTTQnaCrdop3Al45DZyeXF-7SteSNdQfG8=s0-fcrop64=1,00004f5bffffea31",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T3yqdNDlBNxAGqb2xUAjRKVpWq0jQtuLA_3Z0CCMJjlKk7FhIVs6ozxu0QpzMno-fB4S5JKu6v=w1920-h1080-fcrop64=1,00004f5bffffea31",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T3yqdNDlBNxAGqb2xUAjRKVpWq0jQtuLA_3Z0CCMJjlKk7FhIVs6ozxu0QpzMno-fB4S5JKu6v=s0-fcrop64=1,00004f5bffffea31",
       "title": "Frosty sunrise • Elioth Gruner",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_GwE8se6ZyMw4yQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T-UNH37g2Iv45vWRBMhBo47DdIV5cC565-yDkxWZAeYlvwLpeg2LDRBL8g9ODuwErQRzaHbI4=w1920-h1080-fcrop64=1,0000051ef9c2ffff",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T-UNH37g2Iv45vWRBMhBo47DdIV5cC565-yDkxWZAeYlvwLpeg2LDRBL8g9ODuwErQRzaHbI4=s0-fcrop64=1,0000051ef9c2ffff",
-      "title": "Van Gogh Hat • Sandrine Boulet",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_HAH7Ig67oooazA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TC3N5ixAuR605xokQNaRVS_TEfFINd5vqZAqLGG7TQFziLRb9fkGCSr7J9EFsYNUT-0OzwAZY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TC3N5ixAuR605xokQNaRVS_TEfFINd5vqZAqLGG7TQFziLRb9fkGCSr7J9EFsYNUT-0OzwAZY=s0",
-      "title": "Flor de Íris • RAM; Klit",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_HQHCkZ3vWAOLrg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QUAB4CAjOBAblzV_gCfAMhKqzb4b_fSGI8z9Aps3GVgGD5dqQg74pPRkMRtxs7p_w5gDtuJQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QUAB4CAjOBAblzV_gCfAMhKqzb4b_fSGI8z9Aps3GVgGD5dqQg74pPRkMRtxs7p_w5gDtuJQ=s0",
-      "title": "Owl Eyes • BORDALO II",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -847,19 +417,9 @@
       "id": "ART_HwFl1CWAXDV_QQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T8MTbTSise2BcTmamcGyQnASWV5TQlab_1q_qAP0O7ao8mvaQ5l9xivah78U5VbISMQuztcw=w1920-h1080-fcrop64=1,028f1eb8fd6fe008",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T8MTbTSise2BcTmamcGyQnASWV5TQlab_1q_qAP0O7ao8mvaQ5l9xivah78U5VbISMQuztcw=s0-fcrop64=1,028f1eb8fd6fe008",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_StHcdzEKxp5XA49Yr4iaMI5_W_s1wsWDU_aBtMNprs5ZE78PO8hOzL-TCohE_OTTSASC_eHA=w1920-h1080-fcrop64=1,028f1eb8fd6fe008",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_StHcdzEKxp5XA49Yr4iaMI5_W_s1wsWDU_aBtMNprs5ZE78PO8hOzL-TCohE_OTTSASC_eHA=s0-fcrop64=1,028f1eb8fd6fe008",
       "title": "A Road through the Bluebonnets • Onderdonk, Julian",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_JAFB0xRmsQSYkA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SokHSMA6A_7eX_u0ZbM9Ex3KM5B_gh9ChtI_Ctv3uQ8egc4xyITsNUysJeYCFHhNfAQ_8d_Ls=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SokHSMA6A_7eX_u0ZbM9Ex3KM5B_gh9ChtI_Ctv3uQ8egc4xyITsNUysJeYCFHhNfAQ_8d_Ls=s0",
-      "title": "POW! WOW! Hawaii 2014 - Bob Marley Mural • Cryptk",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -894,32 +454,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_JwEvap6WCkJiCg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0-OrN7sK2soSMrJ10i_Roz6rTP8oj5ysNpV_S0xtbitP8rRuxK_4f-2r8gfb3DKgJDmsxaZQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0-OrN7sK2soSMrJ10i_Roz6rTP8oj5ysNpV_S0xtbitP8rRuxK_4f-2r8gfb3DKgJDmsxaZQ=s0",
-      "title": "Untitled - (Owl) • Binho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_JwFhAJYlPAzxpQ",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0dgNB643od8SwiJw4bf06RR3OIs9_XACLM3v3x5UXkqISoQyN1E2b4DmFoKAC2ILbNieYAw=w1920-h1080-fcrop64=1,00006666ffffd675",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0dgNB643od8SwiJw4bf06RR3OIs9_XACLM3v3x5UXkqISoQyN1E2b4DmFoKAC2ILbNieYAw=s0-fcrop64=1,00006666ffffd675",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q2SI1gBTLFPNX3Oz7rb1eUKv5c8eyXHWiLYuAssChXiZB7fqhmuUrrnMj3ZbuGcAk9yHLKQQ=w1920-h1080-fcrop64=1,00006666ffffd675",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q2SI1gBTLFPNX3Oz7rb1eUKv5c8eyXHWiLYuAssChXiZB7fqhmuUrrnMj3ZbuGcAk9yHLKQQ=s0-fcrop64=1,00006666ffffd675",
       "title": "Woodland Glade • William Trost Richards",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_KAE0TJjU5ipEmA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RlJCkEphl8xLy7-q_WYeNG7L1vTBZ92WETVdLqr5sjEGslOtJpDEdhh_KiUg46WPx931f3JyY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RlJCkEphl8xLy7-q_WYeNG7L1vTBZ92WETVdLqr5sjEGslOtJpDEdhh_KiUg46WPx931f3JyY=s0",
-      "title": "Untitled • SAMINA",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -927,8 +467,8 @@
       "id": "ART_KAEVYKDUWn4N7A",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SqEEtADPH2gPq0I8IYHioueUDvLx8oAWO88BMLWYoSfiKRM6CYroeUX-llvcvMW9O9sBaOZg=w1920-h1080-fcrop64=1,00002147bd52ee13",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SqEEtADPH2gPq0I8IYHioueUDvLx8oAWO88BMLWYoSfiKRM6CYroeUX-llvcvMW9O9sBaOZg=s0-fcrop64=1,00002147bd52ee13",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RU2h7vffi7sJfT-IdsWsEnUXVKIBmLsRTi79-2ZKqikTe7H_TB0kRoN5uH3eI8j_bpYY-8Gw=w1920-h1080-fcrop64=1,00002147bd52ee13",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RU2h7vffi7sJfT-IdsWsEnUXVKIBmLsRTi79-2ZKqikTe7H_TB0kRoN5uH3eI8j_bpYY-8Gw=s0-fcrop64=1,00002147bd52ee13",
       "title": "Ships in a Storm on a Rocky Coast • Jan Porcellis",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -940,36 +480,6 @@
       "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZdUKX_h3FAgavjqN9UZNPjXK9w__Vaj888W_cyQggPfG8nS-xZ6wcpxUBm5vbOSoYtZxUjlc1=w1920-h1080-fcrop64=1,00006666ffffeb1d",
       "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZdUKX_h3FAgavjqN9UZNPjXK9w__Vaj888W_cyQggPfG8nS-xZ6wcpxUBm5vbOSoYtZxUjlc1=s0-fcrop64=1,00006666ffffeb1d",
       "title": "The Maria at the Dock • Antonio Pietro Martino",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_LwGMYsmBHDT9Yg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TL1_ZbB8KQQJLS2O6Y1bgTjfHwt45vJQLxpa5OfOzOr6-gV6ZhYf7LjblnrcNG9e7LasF59Ic=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TL1_ZbB8KQQJLS2O6Y1bgTjfHwt45vJQLxpa5OfOzOr6-gV6ZhYf7LjblnrcNG9e7LasF59Ic=s0",
-      "title": "From Edgewood to the Edge of the World • Saaret Yoseph",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_MAFkg4hCB7-P3w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q1SdgTVbzBzW23fBhkkJfkh0DhdJKWoumgk0_HjcP2RS4Xbnz4CcQU-JbBIX146yuIZFqdZQCo=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q1SdgTVbzBzW23fBhkkJfkh0DhdJKWoumgk0_HjcP2RS4Xbnz4CcQU-JbBIX146yuIZFqdZQCo=s0",
-      "title": "untitled • ARM Colletive",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_MAGWXekj3tsx0g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TkVy4k7VbF8NTwGYDwhp4RSheN66s4bJ-r6VJEwNOkUrpJYBp-Rl77zroUHa9Sa2xqZxZcgA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TkVy4k7VbF8NTwGYDwhp4RSheN66s4bJ-r6VJEwNOkUrpJYBp-Rl77zroUHa9Sa2xqZxZcgA=s0",
-      "title": "Di-Rotta • Alice",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -987,19 +497,9 @@
       "id": "ART_NgFsNGw9ASmOrg",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TDUIhgjZbPStOu8v3ZysiK6m8Oh1c8SEtTSiDezAuP9MlpoR-RqAHxjqxFmCfKMtnLMLMP0g=w1920-h1080-fcrop64=1,00001999fffff3c7",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TDUIhgjZbPStOu8v3ZysiK6m8Oh1c8SEtTSiDezAuP9MlpoR-RqAHxjqxFmCfKMtnLMLMP0g=s0-fcrop64=1,00001999fffff3c7",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SqKwH4ncNNk4LTaq97louKe9ShbARiK9Co96i18bPRr0Vn76jApIR_pJuBSY_kou46sjFemA=w1920-h1080-fcrop64=1,00001999fffff3c7",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SqKwH4ncNNk4LTaq97louKe9ShbARiK9Co96i18bPRr0Vn76jApIR_pJuBSY_kou46sjFemA=s0-fcrop64=1,00001999fffff3c7",
       "title": "Pulpit Rock, Cape Schanck, Victoria • Nicholas Chevalier",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_NwET08emeNj7mw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TtSk5rrRTpEHjvshRVgdHG8gRJWw0rXEm_XxAzVnXbuJ9C81UDci3oszIrOiljOpQxnWnI=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TtSk5rrRTpEHjvshRVgdHG8gRJWw0rXEm_XxAzVnXbuJ9C81UDci3oszIrOiljOpQxnWnI=s0",
-      "title": "Untitled - (Meet the Wolves) • Jackfox",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1007,8 +507,8 @@
       "id": "ART_NwFxh5ZiYfMh-w",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SIT5_C5derYD7mCVhbjB-fnvyBDAkCz-OJsu7FIILjhWdtcT32_9h_CZaqj0ZJWE5HbsEmpv4=w1920-h1080-fcrop64=1,0000170afffff137",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SIT5_C5derYD7mCVhbjB-fnvyBDAkCz-OJsu7FIILjhWdtcT32_9h_CZaqj0ZJWE5HbsEmpv4=s0-fcrop64=1,0000170afffff137",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TifAVcYRi60Rn9CaaNitf85dNhZ2SUIU8Xsxx4O_CJO04jyiOmycLYaUEGBt8gp6pJ14h_0wk=w1920-h1080-fcrop64=1,0000170afffff137",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TifAVcYRi60Rn9CaaNitf85dNhZ2SUIU8Xsxx4O_CJO04jyiOmycLYaUEGBt8gp6pJ14h_0wk=s0-fcrop64=1,0000170afffff137",
       "title": "An August Morning • Francis Augusta Silva",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
@@ -1017,29 +517,9 @@
       "id": "ART_NwGl4UQ-d-TCZA",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0AJzILCjXc8IvRrNN6gPiCKVWqiOWD76qqOC5yw5G0lzutX6Xm9FdHE4lss5TOa2-dhjTcw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T0AJzILCjXc8IvRrNN6gPiCKVWqiOWD76qqOC5yw5G0lzutX6Xm9FdHE4lss5TOa2-dhjTcw=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qfzjqh7F67U1RGHUCywmapYLMEr69p9J5ldYu1i02y4tSnRYxcxMMRHJ6gAeuA7VRGU7nFtg=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qfzjqh7F67U1RGHUCywmapYLMEr69p9J5ldYu1i02y4tSnRYxcxMMRHJ6gAeuA7VRGU7nFtg=s0",
       "title": "O Violeiro • Almeida Júnior",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_OAFunHNYZ127mg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QrWic-WalcCD9DAZgOBJ4U4uiIxsdoBPzYWzVQw6cnZF6EwSe_k-rax4jmlcl753_S4OF6gi8=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QrWic-WalcCD9DAZgOBJ4U4uiIxsdoBPzYWzVQw6cnZF6EwSe_k-rax4jmlcl753_S4OF6gi8=s0",
-      "title": "Psycho • Rundontwalk",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_OAGcHD7ctp48FQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TA43H73pFJMjI5yhOa0G-u7-s9yGrExHTxi9lMOugHQmuGxpepAWUlBJQNQA5FzzQTaVzm6A=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TA43H73pFJMjI5yhOa0G-u7-s9yGrExHTxi9lMOugHQmuGxpepAWUlBJQNQA5FzzQTaVzm6A=s0",
-      "title": "unknown • SETH",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1054,62 +534,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_OQGMAX9-L9K85g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RUYVfqvv4MGLmA-Yj-5tlMPuqUKuvUrfK5ipwta8WwdEmOMeyhoBpeKpwQOrFFB8xoCWLuoNyA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RUYVfqvv4MGLmA-Yj-5tlMPuqUKuvUrfK5ipwta8WwdEmOMeyhoBpeKpwQOrFFB8xoCWLuoNyA=s0",
-      "title": "Dutch Hummer • Michael Kershnar",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_PAHuLLAhv_5zOw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TEF3b_N73aJ21OXs8BLOxaNw-T0XWFHNqNFy--NdLg6XKlN-MU_KaFlLb9E2-x1riAH-AbG7c=w1920-h1080-fcrop64=1,00007ffffffff58c",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TEF3b_N73aJ21OXs8BLOxaNw-T0XWFHNqNFy--NdLg6XKlN-MU_KaFlLb9E2-x1riAH-AbG7c=s0-fcrop64=1,00007ffffffff58c",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROM_xZa5Tpu1KzGlwLyJzaUYykqLRRQtLm_yMxHaYGxVN2zk-Ixsg6Ho4Lp1WM--eQSRIc9GA=w1920-h1080-fcrop64=1,00007ffffffff58c",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROM_xZa5Tpu1KzGlwLyJzaUYykqLRRQtLm_yMxHaYGxVN2zk-Ixsg6Ho4Lp1WM--eQSRIc9GA=s0-fcrop64=1,00007ffffffff58c",
       "title": "RIACHO • Lelli de Orleans e Bragança",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_PgEmQDlLNwkvVQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Sv_FoW14kJhGbCYw37ojcNAsmzmz-oFhnAB5OhZuWxDShGl15sdFWPYeJ__BZprnsb846Eqxb8=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Sv_FoW14kJhGbCYw37ojcNAsmzmz-oFhnAB5OhZuWxDShGl15sdFWPYeJ__BZprnsb846Eqxb8=s0",
-      "title": "My giant tiger • KRUELLA D'ENFER",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_PgGLIr7iY0OU1w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RDsPmkRVOsBXdAH_7RGzPgDFL0ZHFigsEl3scV2N540Q01jj-6aJr6BCSqHty1MWqzfzv4SHk=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RDsPmkRVOsBXdAH_7RGzPgDFL0ZHFigsEl3scV2N540Q01jj-6aJr6BCSqHty1MWqzfzv4SHk=s0",
-      "title": "Invasão • PANTÓNIO",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_PgHIA0vdWzcgnw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TSQcRG-vHiLPQ5p_1vro7zYZ08vsFX6kWaJb9Sk_8s3DV_B5AmSaYcM4Ppq93ddfzYyJtS2iIE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TSQcRG-vHiLPQ5p_1vro7zYZ08vsFX6kWaJb9Sk_8s3DV_B5AmSaYcM4Ppq93ddfzYyJtS2iIE=s0",
-      "title": "untitled • unknown",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_PwG8sIN4dAuADA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TfKaJE0-UPg_bqffFp3beN2JfTKbKBKoJ15D4Sdne3GDG3FqTWckjsXSyl96Q_ZlJPH6mChQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TfKaJE0-UPg_bqffFp3beN2JfTKbKBKoJ15D4Sdne3GDG3FqTWckjsXSyl96Q_ZlJPH6mChQ=s0",
-      "title": "Change Gears Mural • Saaret Yoseph",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1117,29 +547,9 @@
       "id": "ART_QgGHxgs5iZgNnA",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RvFNVKd2imXbZG3kZXJBz_D3LU35zKpLE5aImI2AyDdt7-0hsMzQgeTQft448P4z1X_SOpyg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RvFNVKd2imXbZG3kZXJBz_D3LU35zKpLE5aImI2AyDdt7-0hsMzQgeTQft448P4z1X_SOpyg=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RB5SY8p8pJXRijPapQCpKRxIuOzcLTA2edGtWzmhkqNjVqseQXbpOSNnZ2iwOyOSfYDoYb0w=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RB5SY8p8pJXRijPapQCpKRxIuOzcLTA2edGtWzmhkqNjVqseQXbpOSNnZ2iwOyOSfYDoYb0w=s0",
       "title": "Peasants' houses, Eragny • Camille Pissarro",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_QwEmSW0OHeo3BA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RyG9FXcjJAUlMiA0oUBx3JvYwkK-2QWh9QhP6oabCiJbjtWTE6CZpsdyBI0YOTgclf1Vb9z4o=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RyG9FXcjJAUlMiA0oUBx3JvYwkK-2QWh9QhP6oabCiJbjtWTE6CZpsdyBI0YOTgclf1Vb9z4o=s0",
-      "title": "Untitled • ANDRÉ FERNANDES TRINDADE",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_QwFKyj_1yNg_Vw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S_nt35gsMJXGVNh1RCgoLbtg37XdXBlF2k-tgmULB2Fk_wJ54nCiqzwshhroFsOoycEdIJZlc=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S_nt35gsMJXGVNh1RCgoLbtg37XdXBlF2k-tgmULB2Fk_wJ54nCiqzwshhroFsOoycEdIJZlc=s0",
-      "title": "Ladybird Johnson and Janis Joplin • Street art funded by the City of Austin",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1154,312 +564,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_SgEG88Eo5dhJbg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RawqQ3C5nUkIFYCK0znysSCorZ6SudJdnPBluPO1exfTIRN61QoZeeLmlJZtTBGAGWzFkby5Y=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RawqQ3C5nUkIFYCK0znysSCorZ6SudJdnPBluPO1exfTIRN61QoZeeLmlJZtTBGAGWzFkby5Y=s0",
-      "title": "untitled • José Carvalho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_TQH2kviAdWqRmA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Th9E5U0JrXhJAIRD5B9IlOpJ0QdOwAturDIFEcgZIbKTsoG3HjAJQIz29ZghxoxADNrkZuggk=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Th9E5U0JrXhJAIRD5B9IlOpJ0QdOwAturDIFEcgZIbKTsoG3HjAJQIz29ZghxoxADNrkZuggk=s0",
-      "title": "Reflection • Stinkfish",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_TQHcpGZNWBDYuA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RfgOqCtp9FCqULjJn9pa915ZlhzU5jBAPB3fuzun8F5sOdIQK1o8jb4N78QB9ZoMxrcMJgUC0O=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RfgOqCtp9FCqULjJn9pa915ZlhzU5jBAPB3fuzun8F5sOdIQK1o8jb4N78QB9ZoMxrcMJgUC0O=s0",
-      "title": "Untitled • Mart",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_TgGNlibDRsYDCw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q7gJI-kYvmIHvufAfP93sfiJhpA4GL_veEojM1LUih39V3USuxol0oq7U9qs-yQOdJgbaaqXYM=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q7gJI-kYvmIHvufAfP93sfiJhpA4GL_veEojM1LUih39V3USuxol0oq7U9qs-yQOdJgbaaqXYM=s0",
-      "title": "Untitled - (Avenue D Rec Center) • Cern",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_UAGQsxgG0690fw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Skv-N3U8DnZ5rP6vJIwcexuEpjgVq1lWu6jbwwqfdn-D1vRVVOWZckum3aA0v9YEsmUDnYDA0=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Skv-N3U8DnZ5rP6vJIwcexuEpjgVq1lWu6jbwwqfdn-D1vRVVOWZckum3aA0v9YEsmUDnYDA0=s0",
-      "title": "Untitled • Cabaio",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_UgHGONgfLgfbmQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TAGGfgnMwRZ0GuprmFHdLhikPpeKG12m0QxbsX0yluzn5VsT6hc5zBH1EMQdgufUAdKBrmncg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TAGGfgnMwRZ0GuprmFHdLhikPpeKG12m0QxbsX0yluzn5VsT6hc5zBH1EMQdgufUAdKBrmncg=s0",
-      "title": "Untitled • Pum Pum & Nerf",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_UwG8x2Iim4xugg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SP89OOS2-Me3t8HX371z0q4Ufv8MayrTNeMbx7optXOf1GAJ3cd-wbFbdK49OOD0zrn_b89g=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SP89OOS2-Me3t8HX371z0q4Ufv8MayrTNeMbx7optXOf1GAJ3cd-wbFbdK49OOD0zrn_b89g=s0",
-      "title": "untitled • Tinta Crua",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_VAEi3Jdd96X1QQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SJbTUI5ED7BEhPCTSfMw4EFUwRo6DMaxdDccObztzEGHdHipQL9QwjXZdKRrxiUdcWvzQhQnB8=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SJbTUI5ED7BEhPCTSfMw4EFUwRo6DMaxdDccObztzEGHdHipQL9QwjXZdKRrxiUdcWvzQhQnB8=s0",
-      "title": "Untitled • Cabaio",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_VQHoU7dlRJvl6g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S18srh4an-JTK4Orp0D__vrosJpH0YKwaG40aXvjE9tVrfAxVCVk6VF6ivZuqBMRBUJRINqP22=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S18srh4an-JTK4Orp0D__vrosJpH0YKwaG40aXvjE9tVrfAxVCVk6VF6ivZuqBMRBUJRINqP22=s0",
-      "title": "Altruism • Spok",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_VgEaQsPcGaXh0w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q-LscZin5ponb14RD2TsEO5dMrt1q1JdvPzg-lHX4bC6hzeJf7oyI5C_rPp6L9qGKLv_yFfAU=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q-LscZin5ponb14RD2TsEO5dMrt1q1JdvPzg-lHX4bC6hzeJf7oyI5C_rPp6L9qGKLv_yFfAU=s0",
-      "title": "The Guardian Angel • Stik",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_VwFkXEFms1Luzg",
       "category": "art-gallery",
       "source": 9,
       "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TBIHAA0OPb_jYVEv1wjB_XcqISRPakIYnMEXmbzRaQ9JwwZTGMfnxH0nAsl0CqM0RQYNG-rec=w1920-h1080",
       "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TBIHAA0OPb_jYVEv1wjB_XcqISRPakIYnMEXmbzRaQ9JwwZTGMfnxH0nAsl0CqM0RQYNG-rec=s0",
       "title": "Dia de Mormaço • Antonio Parreiras",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_VwHOCDWzREjsvQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q3wGwdsMEkgeoVP4DOlS1bR41IndRv0yAbjFcwMQ9mWvHMO3Z2QcCXbj_Tq_C0DFdt785WFrE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q3wGwdsMEkgeoVP4DOlS1bR41IndRv0yAbjFcwMQ9mWvHMO3Z2QcCXbj_Tq_C0DFdt785WFrE=s0",
-      "title": "Sic semper erat et sic semper irit • Faith47",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_WAHt8mFOleLCUw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qb03MyxlulKwmZYjKi074QZwwfCmWQqvL4_8cFajWBI_1lnYmi8OJSPRU60V3D79vLheEP8Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qb03MyxlulKwmZYjKi074QZwwfCmWQqvL4_8cFajWBI_1lnYmi8OJSPRU60V3D79vLheEP8Q=s0",
-      "title": "Portrait of Renato Guttuso • Orticanoodles",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_WQH3Oti0ctx6Dw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TLSaNyC1HkjbtNMOaVOsoMIkXvnhDRp6f6Jll7P1eEXTqzBsyRJNe2Pcw_dGPxyW9dgnqv6Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TLSaNyC1HkjbtNMOaVOsoMIkXvnhDRp6f6Jll7P1eEXTqzBsyRJNe2Pcw_dGPxyW9dgnqv6Q=s0",
-      "title": "Cabo das Tormentas • ARM Colletive",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_WwEtY7mg1uD9kw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_STs8ZlAXKuQVQXb8W4jCbeZ51f8fheX6g8AdpW5IDpq7VtvwoHfh-y1Xma5NWesPgnqXXm84o=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_STs8ZlAXKuQVQXb8W4jCbeZ51f8fheX6g8AdpW5IDpq7VtvwoHfh-y1Xma5NWesPgnqXXm84o=s0",
-      "title": "Gogh-van-Cruijff • Uriginal",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_XQEoa9wUvAzmGQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QuFA_CZYB06SiawCnrYofJLff8ezn2faQpJEscgLzt33meiBoP7-whCMRXdPNhgArTBXZ8pI42=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QuFA_CZYB06SiawCnrYofJLff8ezn2faQpJEscgLzt33meiBoP7-whCMRXdPNhgArTBXZ8pI42=s0",
-      "title": "Untitled - (Woman) • Omen",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_XQEtbAyajYPP5g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T3KeTYcHXtC1WUpekYe-h_B7f1ZczjjqVT6wDDTmdxrTWpctXP-PLpGwvtK3isM-uhZJN_Wg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T3KeTYcHXtC1WUpekYe-h_B7f1ZczjjqVT6wDDTmdxrTWpctXP-PLpGwvtK3isM-uhZJN_Wg=s0",
-      "title": "Scorpion • Suiko",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_XQFv12sjix_G3A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Snyvt1cbl3qD_x8eSlRla4Ig1aql8voYX9GdahR9WLTw41WOG95FXlyT8dUj4jjN2Qsc59mA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Snyvt1cbl3qD_x8eSlRla4Ig1aql8voYX9GdahR9WLTw41WOG95FXlyT8dUj4jjN2Qsc59mA=s0",
-      "title": "Dourone_South Park • Dourone",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_XwFymzc2ETG0Bg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R0xukpanAOzozfwtEsyKVz60WFB7TtdXhbCKRBYUbXzYhGoOVaLSU11FVqPoxepWpeytwWS0Y=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R0xukpanAOzozfwtEsyKVz60WFB7TtdXhbCKRBYUbXzYhGoOVaLSU11FVqPoxepWpeytwWS0Y=s0",
-      "title": "Invasão • PANTÓNIO",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_YAF7p_v3hxmdDQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R-LTP9yIsYKKIlMAdncpDjkCiV7QdtRkk7Yid0dyb-l4JIyJLG8xmEMCioXFJrInbhbrBWQQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R-LTP9yIsYKKIlMAdncpDjkCiV7QdtRkk7Yid0dyb-l4JIyJLG8xmEMCioXFJrInbhbrBWQQ=s0",
-      "title": "Untitled • Jaz & Kol Kir",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_YAFwUkaOBScniw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QMr-Lt4WZaR5lGZn2RYOIMboEUUGaFfXUHnvzQfqET0oBO0WdYbL7dxejdapUzLtNzthXNdqb_=w1920-h1080-fcrop64=1,0000547ac4affc1c",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QMr-Lt4WZaR5lGZn2RYOIMboEUUGaFfXUHnvzQfqET0oBO0WdYbL7dxejdapUzLtNzthXNdqb_=s0-fcrop64=1,0000547ac4affc1c",
-      "title": "LOW BROS",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_YgFCaTp3C4Rzdw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R_wErf45Eyl4-CpKoNHAW4dAL4VqNNPv-5e7YS_RrHf6hJe47PQXGDwX7ZhnWsQMr8MufOS4uo=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R_wErf45Eyl4-CpKoNHAW4dAL4VqNNPv-5e7YS_RrHf6hJe47PQXGDwX7ZhnWsQMr8MufOS4uo=s0",
-      "title": "Série ‘UNderwater UN/Love Stories’ • TAMARA ALVES",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_YgH5jrQB4ERL4w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QJ5rmMD8BLzX8Env1u7Q1TSSmeF1XNFWfBUFkQWvIyYjIeTZBjIfQWo4m-ndl1_ySD0WYdJhY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QJ5rmMD8BLzX8Env1u7Q1TSSmeF1XNFWfBUFkQWvIyYjIeTZBjIfQWo4m-ndl1_ySD0WYdJhY=s0",
-      "title": "POW! WOW! Hawaii 2013 - Student Mural • POW! WOW! School of Art, 808 Urban",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_YwH1YP8U40yUCA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzKzrhsxD31rxPa8IKZwcBGsbrHGhq7A9wXZ_Z7eo3uYtmimS9QkReO6p6nmC47aRDefzKJQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RzKzrhsxD31rxPa8IKZwcBGsbrHGhq7A9wXZ_Z7eo3uYtmimS9QkReO6p6nmC47aRDefzKJQ=s0",
-      "title": "Untitled • Nerf",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ZAEWwrLbm7JnJg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RfoFR8gOhmJ9rigEnh99bk1IXrnXW-ljge9u3EVX4gm8HDY7KT7moQktaaNHLpz1qop3t6QOZS=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RfoFR8gOhmJ9rigEnh99bk1IXrnXW-ljge9u3EVX4gm8HDY7KT7moQktaaNHLpz1qop3t6QOZS=s0",
-      "title": "Untitled • Roma",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ZAGddA_3w0Njrg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9z7NlVczHDPHgnwv0ASE_nYdTBj7edMFoGMAeenAlE-5hr4w27oFGmhrmAKmkJ2s8wg0mLw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q9z7NlVczHDPHgnwv0ASE_nYdTBj7edMFoGMAeenAlE-5hr4w27oFGmhrmAKmkJ2s8wg0mLw=s0",
-      "title": "Red Actress • Kenor",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART__QFk8j6Zpzt2Rw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SV2vYs9i2TeAMvksi1vBn9HYFdgjYlwZadEVVpz5_RzEZ5dlBMZf1G0hy2VY2OmvZmwzpYSrE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SV2vYs9i2TeAMvksi1vBn9HYFdgjYlwZadEVVpz5_RzEZ5dlBMZf1G0hy2VY2OmvZmwzpYSrE=s0",
-      "title": "Untitled • Marco Tamburro",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART__QFox_mKmJnqgg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q0L43Hp6IXl_VVApOHnfPgnChuMO5zkujtr9tbweTB1aUNgpa2RYLudVgN3XFHKqbRHnQuL9g=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q0L43Hp6IXl_VVApOHnfPgnChuMO5zkujtr9tbweTB1aUNgpa2RYLudVgN3XFHKqbRHnQuL9g=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART__gEW9LxRrpRLjw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QSXme0bBENv_gp21iv5C45XeUZEZ-7aB6gdA1ZRSxS0eiJY3tKz6MQr5bg6Ac6tEqFdwBH0A=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QSXme0bBENv_gp21iv5C45XeUZEZ-7aB6gdA1ZRSxS0eiJY3tKz6MQr5bg6Ac6tEqFdwBH0A=s0",
-      "title": "My Friends Place_Hollywood",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART__gFzKZYhr3pAkA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S8ciRGRtnubX-Ezc6dUld73bzMoBjG-ijPgNWyq20FH1aLeCqn-84lj7f-rXNv7TaBks3EOsu9=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S8ciRGRtnubX-Ezc6dUld73bzMoBjG-ijPgNWyq20FH1aLeCqn-84lj7f-rXNv7TaBks3EOsu9=s0",
-      "title": "The Fall of Man • Stik",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART__wFQSnPzSE7mxg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QSS1gu4HFXAFVm_U-IjX4X07gtZ73-O9rIUZoaQx6M3N4yYAX7L3oK5wUnKLF1jHhEXU5Gara_=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QSS1gu4HFXAFVm_U-IjX4X07gtZ73-O9rIUZoaQx6M3N4yYAX7L3oK5wUnKLF1jHhEXU5Gara_=s0",
-      "title": "POW! WOW! x Versace - Tristan Eaton Mural • Tristan Eaton",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1474,56 +584,6 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_aAHzCnS25SFRiQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RgGHctzYa5NKE7-g8UIspEBh1nkYInF24Xjq07nBamryxcRqtoJFqp02NUquO6iIoPSLaAg-U=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RgGHctzYa5NKE7-g8UIspEBh1nkYInF24Xjq07nBamryxcRqtoJFqp02NUquO6iIoPSLaAg-U=s0",
-      "title": "Untitled",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_aQH-Xpbo_xm_XA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QFrorlUrXhdqxQxolvX05x7Uwr2-ukq96E2qtYpCamt4kvsYAozWMtziCgzBapJ1JRjiehP1I=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QFrorlUrXhdqxQxolvX05x7Uwr2-ukq96E2qtYpCamt4kvsYAozWMtziCgzBapJ1JRjiehP1I=s0",
-      "title": "POW! WOW! Hawaii 2013 - Dal Mural • Dal",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_agFQZRRrWAZJwg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SlSrLfmrXWIxP98zyVmTeknTC93-cr9_S5pUuvvcb2b1Z5KPky8XCzeZC2ekiaA6OIfgW6kiE=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SlSrLfmrXWIxP98zyVmTeknTC93-cr9_S5pUuvvcb2b1Z5KPky8XCzeZC2ekiaA6OIfgW6kiE=s0",
-      "title": "Untitled • Other",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_awEVZ-l4az4UqA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S4heINGs6wooOiNmI9IguPGOBGH4es6yJii7gpUyKZg2wkG8wCszKnVHJ1FGXqAt_EczYs-0s=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S4heINGs6wooOiNmI9IguPGOBGH4es6yJii7gpUyKZg2wkG8wCszKnVHJ1FGXqAt_EczYs-0s=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_awF3YOrvMYg9CQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QEIuES4hXEpvQoCg2oVZlRiKGL0Ia1uekN2NgY6vPhMdjd-QJABpOX9F4SOhI4p9tc1gFktg=w1920-h1080-fcrop64=1,00002147fffff9d1",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QEIuES4hXEpvQoCg2oVZlRiKGL0Ia1uekN2NgY6vPhMdjd-QJABpOX9F4SOhI4p9tc1gFktg=s0-fcrop64=1,00002147fffff9d1",
-      "title": "The Raven • STENOGRAFFIA TEAM",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_bwEVC2cxukdCrQ",
       "category": "art-gallery",
       "source": 9,
@@ -1534,322 +594,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_bwG6VmOTIPhHwA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SF1SHL_gImrFJ1adZOsI2kB8JMWDjt_X5FKYZi2u-J257LCHOgjditjAOZhv3K5-tefvIJXjw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SF1SHL_gImrFJ1adZOsI2kB8JMWDjt_X5FKYZi2u-J257LCHOgjditjAOZhv3K5-tefvIJXjw=s0",
-      "title": "Chameleon's Dream • No More Lies",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cAFCPMk51-1mMw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUlNqbMh8U12w3gxV7J_93HP99DVvv_ZvnJMR3ESptkfCDAm1gapvzAqgZ1AwDIzeIRy3o8w=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUlNqbMh8U12w3gxV7J_93HP99DVvv_ZvnJMR3ESptkfCDAm1gapvzAqgZ1AwDIzeIRy3o8w=s0",
-      "title": "Untitled • Gualicho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cAG5HM-T62h51A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SbXM8-nX_1MfOwEdKVsjLoivFfAfk0OYdZcJTCPY7VAK8d8WvT9SjA69Fk-KGoQWO7kXi_SA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SbXM8-nX_1MfOwEdKVsjLoivFfAfk0OYdZcJTCPY7VAK8d8WvT9SjA69Fk-KGoQWO7kXi_SA=s0",
-      "title": "Portugal pelas costuras • MR. DHEO",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cQHSJxBDnOBWAQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RW20ubjbm6Pc2MMWXFgXp8k4IkVHiA1JPAMDIdkvKyoVSbT21L5W3wsuksTt__ZlpwxiQE7Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RW20ubjbm6Pc2MMWXFgXp8k4IkVHiA1JPAMDIdkvKyoVSbT21L5W3wsuksTt__ZlpwxiQE7Q=s0",
-      "title": "Untitled - (Eagle and Wave) • DALeast",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cgGKsXui12L4XQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RUzWREu9XExIp8K8SQ5EzZZFUymD3cJEDMmm27zKVRs6nfPjcbpvlL_Lu1wqzhB6X_NljHMA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RUzWREu9XExIp8K8SQ5EzZZFUymD3cJEDMmm27zKVRs6nfPjcbpvlL_Lu1wqzhB6X_NljHMA=s0",
-      "title": "Untitled • rundontwalk",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cgHUUIJAhB2H5g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TfAsT6Pc8hw0Kd7VVxZF90jScYHoxgDR1XL_St9bb6m2zhDqNwr5TKEcwj3csgROSMzwJ4=w1920-h1080-fcrop64=1,028f1eb8fd6ff488",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TfAsT6Pc8hw0Kd7VVxZF90jScYHoxgDR1XL_St9bb6m2zhDqNwr5TKEcwj3csgROSMzwJ4=s0-fcrop64=1,028f1eb8fd6ff488",
-      "title": "Tdk Interplay • Asker",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cwEwD-1eSczy6A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q0pkESwSUOZ3beET_RGzRrIfiSw99VRxoe4VFtZFeSdxbzhoPENN92gbycc10-70fNg16bmaZO=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q0pkESwSUOZ3beET_RGzRrIfiSw99VRxoe4VFtZFeSdxbzhoPENN92gbycc10-70fNg16bmaZO=s0",
-      "title": "unknown • POSE 2",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cwFGUvR1gtctSg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQfRA40EjkBFS5fubWKqhD8qV_gZ0g8QBowCcavCVL2iUVVX3VC2bDo4HgB_k9oxfPkql3HA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQfRA40EjkBFS5fubWKqhD8qV_gZ0g8QBowCcavCVL2iUVVX3VC2bDo4HgB_k9oxfPkql3HA=s0",
-      "title": "untitled • Pixelpancho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cwFlYIRPnRYbpA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S2WzoEeTeMwuJ-afgxMGjljORS3kWxgr4FcsbVVewlBv6HEUxmOFKrGQJhCD22aQMSVnqjBc0=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S2WzoEeTeMwuJ-afgxMGjljORS3kWxgr4FcsbVVewlBv6HEUxmOFKrGQJhCD22aQMSVnqjBc0=s0",
-      "title": "Untitled - (Two faces) • David Walker",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_cwHKgGlNxHPT6A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SPykjoJsnxtqg9B6PatS5P1vOpoPI6XydG7qRc-k_zrG-I5vBRc2rBzLNoLHAv50T8hVR0wcQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SPykjoJsnxtqg9B6PatS5P1vOpoPI6XydG7qRc-k_zrG-I5vBRc2rBzLNoLHAv50T8hVR0wcQ=s0",
-      "title": "Untitled • Poeta",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_dAE6Jjaq7hHRYA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SkwHaW1znzuWhg6x41x8rOxNk10ChM-p0_ODOc9hk1rFNZRamlXeFKDtTpEDp_zkFdN1caiw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SkwHaW1znzuWhg6x41x8rOxNk10ChM-p0_ODOc9hk1rFNZRamlXeFKDtTpEDp_zkFdN1caiw=s0",
-      "title": "Lady of the Leaf (a remix) • Lady Pink",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_dQF1wb-ajW7Utg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SVBPKHYVAXZsHhUpEYIEMDJKuRNPvLgfCu6udnJjMYQpuyMgakI0z8QBtkeulZS5oR1QEuVz0=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SVBPKHYVAXZsHhUpEYIEMDJKuRNPvLgfCu6udnJjMYQpuyMgakI0z8QBtkeulZS5oR1QEuVz0=s0",
-      "title": "untitled • GLAM",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_dQHHrmslr3V-VA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S934-M52a66oZYO9VHwVHsx0bE5JKZruw8xtadCGwWl7WIxLruXlPchmIvuz7BHsh-NqQHRA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S934-M52a66oZYO9VHwVHsx0bE5JKZruw8xtadCGwWl7WIxLruXlPchmIvuz7BHsh-NqQHRA=s0",
-      "title": "The Triumph of David (detail) • Phlegm",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_fQHmvFb3wQ50eg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TswhxztK83uSRww-F-yOC-xsYa1ZEcIFk7KkJPwZTG_i5oaHupnLJg2Mwz0Qxw6HVsGQ4C_Vzv=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TswhxztK83uSRww-F-yOC-xsYa1ZEcIFk7KkJPwZTG_i5oaHupnLJg2Mwz0Qxw6HVsGQ4C_Vzv=s0",
-      "title": "Spring Offering • Pau",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_fwE1jBpo4c9Ueg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RvKJOVC9v4UiFhTDIGPfuRdMPqN5dN7VigO4h-l_mQaBE3RR2-OO6lwTbGY6rWdo_Z47IkbErd=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RvKJOVC9v4UiFhTDIGPfuRdMPqN5dN7VigO4h-l_mQaBE3RR2-OO6lwTbGY6rWdo_Z47IkbErd=s0",
-      "title": "Fuse • EIME",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_gAHlxHQR3Hwd_A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SzpVgxTGNLpsGV8fxptZFv4pjgEL6AVHjdMQMBSuq6k5G2PFXK06x2T_zIsAJekgwdVtFS7w=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SzpVgxTGNLpsGV8fxptZFv4pjgEL6AVHjdMQMBSuq6k5G2PFXK06x2T_zIsAJekgwdVtFS7w=s0",
-      "title": "Untitled - (Sea Creatures) • Bile",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_gQFnlysRuLQywg",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TUs-VUH1Id2RsT20v9IUQz3LeFnJABmnfdqP_gudp0ZhVNagk90JK4oOb6_xe7MdPqeWNsrk8=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TUs-VUH1Id2RsT20v9IUQz3LeFnJABmnfdqP_gudp0ZhVNagk90JK4oOb6_xe7MdPqeWNsrk8=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TzpqC_i7aUjTCSwm-PLOis3mphdhURZtRFvOB__E0hBo4GkaOiPVofUecqsgQQn27elmOxaeA=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TzpqC_i7aUjTCSwm-PLOis3mphdhURZtRFvOB__E0hBo4GkaOiPVofUecqsgQQn27elmOxaeA=s0",
       "title": "Architectural capriccio • Filippo Juvarra",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_hAGJXt2TJWm1Ig",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RGNeudmAof7cHDi_RREMA1jy_9VwTqXTjs3fjdYYpsHcFpp-cQwsFkCYxP8og5H1NkrFGT6Ac=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RGNeudmAof7cHDi_RREMA1jy_9VwTqXTjs3fjdYYpsHcFpp-cQwsFkCYxP8og5H1NkrFGT6Ac=s0",
-      "title": "A viagem do elefante • PANTÓNIO",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_hQGZiBFDrl7fLA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SXMIIwSLzZPR_IUbnN5zEe-wCsl3pG4esZVZfTGjityo_wx9j3N6gu2j8DXK0mdfd_5eU8bg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SXMIIwSLzZPR_IUbnN5zEe-wCsl3pG4esZVZfTGjityo_wx9j3N6gu2j8DXK0mdfd_5eU8bg=s0",
-      "title": "Bicicleta Sem Freio_420 Boyd St. • Bicicleta Sem Freio",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_hgEuf9RuWlhA-w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTSr81fZPyuwCQwV-N83wVv_-P6G4b1KvstGPOsd-C3gPqjG502LG1HtCa1zwISigXjVFVLv4=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RTSr81fZPyuwCQwV-N83wVv_-P6G4b1KvstGPOsd-C3gPqjG502LG1HtCa1zwISigXjVFVLv4=s0",
-      "title": "DevNgosha_South Park Mural • Devngosha",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_igFFjUoSEtSUKw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_-5_hwBVhlf3w8x9LLdVhyzAg5Co16asbhJClccHOYPtRXnRrn5yoau99nclS1mY6-YlKm38=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_-5_hwBVhlf3w8x9LLdVhyzAg5Co16asbhJClccHOYPtRXnRrn5yoau99nclS1mY6-YlKm38=s0",
-      "title": "Smile • Stinkfish",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_iwH-S-5ost00ng",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RtHmf8WxBYH9trhb_okejr8ZYrz92ICrTwezEVPN0qUtPbOIs59zIezpIGOZAUlHhpYdGnCA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RtHmf8WxBYH9trhb_okejr8ZYrz92ICrTwezEVPN0qUtPbOIs59zIezpIGOZAUlHhpYdGnCA=s0",
-      "title": "Connectivity • Ninetta",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_jAEGLDSJ71hL1Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RxmXrG4-xb76D2nQzo9fTVxo_xn9MNvKLf_CUdpmXd--j-MP3t1kzk0PZhr8H5aTQ9M3_gUw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RxmXrG4-xb76D2nQzo9fTVxo_xn9MNvKLf_CUdpmXd--j-MP3t1kzk0PZhr8H5aTQ9M3_gUw=s0",
-      "title": "Untitled • Various artists",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_jgHlc_jiA6tEKw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QNpAsICVhFfeV4dOptecfSPviVKp0oXxeBNjlrAhG2EWC5eUlh1MVZ7MTrF3OhejvVk2lXqxQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QNpAsICVhFfeV4dOptecfSPviVKp0oXxeBNjlrAhG2EWC5eUlh1MVZ7MTrF3OhejvVk2lXqxQ=s0",
-      "title": "Three Boys • Stik",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_kwEkUesX6AHQ3w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QkMTnz-CbRNTN_DCWHDINeJjPhsyh7BOySqW6rVF_Kpf5uP16pOooJ13iux137d8RW2NVn=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QkMTnz-CbRNTN_DCWHDINeJjPhsyh7BOySqW6rVF_Kpf5uP16pOooJ13iux137d8RW2NVn=s0",
-      "title": "Untitled • Chu",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lAFtk1AMGT0W9Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q3QCDSyTHxpdhzHbo1IjHiL-qRN7vs5V4NfEm6VYXEk7CxVzvePiYH1NX6MHvt_knebEkmN-s=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q3QCDSyTHxpdhzHbo1IjHiL-qRN7vs5V4NfEm6VYXEk7CxVzvePiYH1NX6MHvt_knebEkmN-s=s0",
-      "title": "Natureza Viva • Regg and Violant",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lgHMsIg60CGwFw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TKW5oE5AflTpS-68TmCBDF4r8YXyk-F5wN_L3T6QVvTof0AD3m6Jcy6GfBVLLgS-wXvojJ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TKW5oE5AflTpS-68TmCBDF4r8YXyk-F5wN_L3T6QVvTof0AD3m6Jcy6GfBVLLgS-wXvojJ=s0",
-      "title": "Untitled • Rodez",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lwEEhjsfu0VeDQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_REcnXxQEKCUKzpQTic02xx-KphlUw7THZ0Wc2QnPx29rujaDkl4cyX0hE57CI2cV5LI4HjVw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_REcnXxQEKCUKzpQTic02xx-KphlUw7THZ0Wc2QnPx29rujaDkl4cyX0hE57CI2cV5LI4HjVw=s0",
-      "title": "Untitled • Pum Pum",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lwF4zp1OG9WVuQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SVkV3HLdeu6yNUalHUDVSNGqa3oaumVz1R_nB57dhENa8vJ2c56LuD-2_ZiOylHcGLlLZByQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SVkV3HLdeu6yNUalHUDVSNGqa3oaumVz1R_nB57dhENa8vJ2c56LuD-2_ZiOylHcGLlLZByQ=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lwGcpW_yxeR9IA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUO7Rx5A30uhSFUwvL2PJkQwbnyoY_Tz95lZqDFwl51J8tFdXnKV7Kw4ApCnrLouXrNwB5XdgW=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SUO7Rx5A30uhSFUwvL2PJkQwbnyoY_Tz95lZqDFwl51J8tFdXnKV7Kw4ApCnrLouXrNwB5XdgW=s0",
-      "title": "Along the Way • Alice Pasquini",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_lwHvUWe6srTdnw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QAo_RjQ4enwoPUEEoVpr42cdXe4NapozNaEriICjcakmSB-yx_U8NPhDKeIscpR3KDfBATbCY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QAo_RjQ4enwoPUEEoVpr42cdXe4NapozNaEriICjcakmSB-yx_U8NPhDKeIscpR3KDfBATbCY=s0",
-      "title": "Mburucuya • Pastel",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_mAGftlQjwTplcQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SU1At2MdG2zXadUHHf3PIfrpcbuKDibXutVyHK6nI_m3uOXl74rgTQI30yZ5mHP2kqhBE01x4=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SU1At2MdG2zXadUHHf3PIfrpcbuKDibXutVyHK6nI_m3uOXl74rgTQI30yZ5mHP2kqhBE01x4=s0",
-      "title": "Bicicleta Sem Freio_420 Boyd St. • Do Art Foundation",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1864,112 +614,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_nQHErqTG2LjQhQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T47Ydxv8eEKbK69SYzrqtJsxlaOSBdEYBzihLARnizhXFk24yMNCtkoqyjqnthjTCXf_bTBw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T47Ydxv8eEKbK69SYzrqtJsxlaOSBdEYBzihLARnizhXFk24yMNCtkoqyjqnthjTCXf_bTBw=s0",
-      "title": "The transformation of Clark Kent • Solo",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ngGblE9AmHyWgw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S0HrKsvfZHAxERYThGFrRCHCk08HGNmbJzqtgnPqnNFzUZi652lJyrFANUpB3h0VAz5hbz=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S0HrKsvfZHAxERYThGFrRCHCk08HGNmbJzqtgnPqnNFzUZi652lJyrFANUpB3h0VAz5hbz=s0",
-      "title": "POW! WOW! Hawaii 2013 - Cukui Mural • Samuel Rodriguez, Orly Locquiao",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_nwHvpl-n2R-39g",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R3Aluic-8vSNHPU3aUZFh9rnV-xsVkPxi_l8PaKcGlRDAZv1L_fZfbOZZl7ytJ6MOTg4GL=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R3Aluic-8vSNHPU3aUZFh9rnV-xsVkPxi_l8PaKcGlRDAZv1L_fZfbOZZl7ytJ6MOTg4GL=s0",
-      "title": "The Red Dress • Jarus",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_oQEdLfBbTAoW6w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TUA74QtcmYFjB0kxdq8ofprzH7Nx1uUPnKXv0X1QP4m3hb4_nQ-Q77JNQ0cFN6PwFRaJmNjQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TUA74QtcmYFjB0kxdq8ofprzH7Nx1uUPnKXv0X1QP4m3hb4_nQ-Q77JNQ0cFN6PwFRaJmNjQ=s0",
-      "title": "Untitled • Cabaio",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_oQGDy97TDqfbQw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R6idneJq94sXex3xN7p1lOSQyhb8QRkelU9yOrVxE9JY1fdNUk_DuurF12ukTvImkQ8aoDMPky=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R6idneJq94sXex3xN7p1lOSQyhb8QRkelU9yOrVxE9JY1fdNUk_DuurF12ukTvImkQ8aoDMPky=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SvN6vXQOm_gfczEOJeGdAzGgdk0Y-pQVKCz4NjRo1wW-hl76pSlzEeJ_2ELy54M2Wp3egg90pt=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SvN6vXQOm_gfczEOJeGdAzGgdk0Y-pQVKCz4NjRo1wW-hl76pSlzEeJ_2ELy54M2Wp3egg90pt=s0",
       "title": "On Al Khan Beach • Ali Al Abdan",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_owFiW79b6u5uOA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R_JdNI03wJjCZ3vrMdYB2r6XD67YYdA2QcRefh6N-rQsXyCshR1lHLcA5MHEqZM-p8DFQP33w=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R_JdNI03wJjCZ3vrMdYB2r6XD67YYdA2QcRefh6N-rQsXyCshR1lHLcA5MHEqZM-p8DFQP33w=s0",
-      "title": "POW! WOW! Taiwan 2014 - Woes Martin Mural • Woes Martin",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_owH5aPLgZbXXLg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QN2-0NzaPq0nNgQRzzK1MoiRaGPJLq821ftfY2BxIVgzDIYL44SKOuftCBI0hTn4C_6w0bsg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QN2-0NzaPq0nNgQRzzK1MoiRaGPJLq821ftfY2BxIVgzDIYL44SKOuftCBI0hTn4C_6w0bsg=s0",
-      "title": "Adamastor • ARM Colletive",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_pAEWA1B7X2mtPw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RPa9VVXgLqRipww0ylfPlsLsqu4Mxc-jSdB0mJsmrbSBdz4J6vhRdDEtBrtQWjk7IdV-fbRNg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RPa9VVXgLqRipww0ylfPlsLsqu4Mxc-jSdB0mJsmrbSBdz4J6vhRdDEtBrtQWjk7IdV-fbRNg=s0",
-      "title": "confident and fearless • street artist known as TK Deol",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_pQHe__XmqjZBzA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SQj5LR0obxDzxrhwEIfkMhk4lZHnGbNWyj-DyIljzgUbnP4ovUCyRn0qCUf_BdJZfw0t_gWT8=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SQj5LR0obxDzxrhwEIfkMhk4lZHnGbNWyj-DyIljzgUbnP4ovUCyRn0qCUf_BdJZfw0t_gWT8=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_pgFoeGRPpISBdQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SEeMPyigkufPHNfD4Fcf60UJvOBNawclLjojSq7A_Y5R4PwC187Z1vVVpzeTPk1rslM87kcO0=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SEeMPyigkufPHNfD4Fcf60UJvOBNawclLjojSq7A_Y5R4PwC187Z1vVVpzeTPk1rslM87kcO0=s0",
-      "title": "Untitled • rundontwalk & Stencil Land",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_pwGzjpRU2tu4bQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SuVZiJmDqbQ28NJc_kd0ZlEGUo5wPBheBtaJJm-LiZtb6GL-tDJfOSEgYGwoN5VxjPpJjs4AAs=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SuVZiJmDqbQ28NJc_kd0ZlEGUo5wPBheBtaJJm-LiZtb6GL-tDJfOSEgYGwoN5VxjPpJjs4AAs=s0",
-      "title": "Untitled - (Dragon) • DALeast",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -1984,142 +634,12 @@
       "added": "2026-07-04"
     },
     {
-      "id": "ART_qgEZuuO2GLvH1Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rnlq2eFLOZW6xvEzUeYuDqZshS57FmYH_SVR_agI5MtBtgfJiDQQp5yMuCWHzEMxOOs1sXDZq6=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rnlq2eFLOZW6xvEzUeYuDqZshS57FmYH_SVR_agI5MtBtgfJiDQQp5yMuCWHzEMxOOs1sXDZq6=s0",
-      "title": "Untitled • Mart & Corona",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_qgHMnFEouEOyFg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZ-3iOLTUyL6Z6YhjEKU2SvrPW6nwWrjeURkJzVISWzb9eQOkBpIXntCbRJjxxRjlJZdoTGhVo=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZ-3iOLTUyL6Z6YhjEKU2SvrPW6nwWrjeURkJzVISWzb9eQOkBpIXntCbRJjxxRjlJZdoTGhVo=s0",
-      "title": "Untitled • Nerf & SETH",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_qwGy56Yktynt7A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TAs5TcbtY5iuJQVXf6Q0FvI-VGFH3OojOh3XA8I7l1ML5qNLrwQLxlLoYcHa8w1iVTs669bQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TAs5TcbtY5iuJQVXf6Q0FvI-VGFH3OojOh3XA8I7l1ML5qNLrwQLxlLoYcHa8w1iVTs669bQ=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_rAFc92Q3Syy_RQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZBz9H_bEbRVHtLhZnuYUcVhsfHD0ITdtTOJW_ys7K88Jujf_TpsGG3oRjxbWAUVtnLyjp5Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZBz9H_bEbRVHtLhZnuYUcVhsfHD0ITdtTOJW_ys7K88Jujf_TpsGG3oRjxbWAUVtnLyjp5Q=s0",
-      "title": "Untitled • MÁRIO BELÉM",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
       "id": "ART_rQFUFgWSlvgLQA",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RjDU5lKnbMSrFr7ile9ohXaYumqnhNdzOKCGupkTcBKOQsvQUHxHui3DRspeK_qu-xdODR7FY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RjDU5lKnbMSrFr7ile9ohXaYumqnhNdzOKCGupkTcBKOQsvQUHxHui3DRspeK_qu-xdODR7FY=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SSWxn3jYCOAs0r_XRjlcVMvkToLyHPqZGe0wENjo1qWaw1_VWWmEAowavT_XSBSAMeJDaMshI=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SSWxn3jYCOAs0r_XRjlcVMvkToLyHPqZGe0wENjo1qWaw1_VWWmEAowavT_XSBSAMeJDaMshI=s0",
       "title": "Paisagem (Água Parada) • Antonio Parreiras",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_rgFS0ZFNeAaEYQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TCN8PLhV_iegvbK7_620UtQQ4v4QtNWgRxBopeLouYp-cjbJUDoW3oHdUBkyP0x-BDETYpGbKJ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TCN8PLhV_iegvbK7_620UtQQ4v4QtNWgRxBopeLouYp-cjbJUDoW3oHdUBkyP0x-BDETYpGbKJ=s0",
-      "title": "POW! WOW! Hawaii 2013 - King Kalakaua Mural • Roids, Madsteez",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_rwFcqT8_pICbGQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q8Wy9BO8fDkKGNeVt96rqLZy9fk_6imRCXd-HXG4kZeaENHIckSc5RKy3TI1fWKcFEQVlqMPI=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q8Wy9BO8fDkKGNeVt96rqLZy9fk_6imRCXd-HXG4kZeaENHIckSc5RKy3TI1fWKcFEQVlqMPI=s0",
-      "title": "Untitled • rundontwalk",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_sAE3tGRgqB66gw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QPFI_5uumNQec5i5jS_Ve1RkKksFJoGQviodgA-R8Xx650TKHtnIajsQ0M1kj3HIzi7tANWw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QPFI_5uumNQec5i5jS_Ve1RkKksFJoGQviodgA-R8Xx650TKHtnIajsQ0M1kj3HIzi7tANWw=s0",
-      "title": "Untitled • Apen",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_sAEbRpyjp-gWGQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQa6lV437SrGMFlIPps40mAKhOMyz54kGp_wm0ay0e_8LIsKp03Zkji88daoV20snCJ34lljQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQa6lV437SrGMFlIPps40mAKhOMyz54kGp_wm0ay0e_8LIsKp03Zkji88daoV20snCJ34lljQ=s0",
-      "title": "POW! WOW! Hawaii 2014 - Whomu Mural • Whomu",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_sAFXtGbTLqDWsg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROwTRYxU4JOwcYF4Hs427V8AXMWVDXH19xjF-tpFdazJEhZHa1mSbdpE3uNWJJgCD8iPfQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_ROwTRYxU4JOwcYF4Hs427V8AXMWVDXH19xjF-tpFdazJEhZHa1mSbdpE3uNWJJgCD8iPfQ=s0",
-      "title": "POW! WOW! Hawaii 2014 - Ron English Mural • Ron English",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_sQEvPkY3yWPI1w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tny6UXt8NFEvKCBwBZu00Kk-yJ7X3phi6oEEIcVvC44NJYkZ_YbbJ43qxPSwzVxUu71ywMlIxg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tny6UXt8NFEvKCBwBZu00Kk-yJ7X3phi6oEEIcVvC44NJYkZ_YbbJ43qxPSwzVxUu71ywMlIxg=s0",
-      "title": "unknown • CHEMIS",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_sgF0ZzKWaYIDIw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qm3QHOU6l5cDvI9-Pyu_sgQmd-TcuxA2uM7FzlQqMyxe6SePqewbpUFi459KqnOEIP3rZMZ7Np=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qm3QHOU6l5cDvI9-Pyu_sgQmd-TcuxA2uM7FzlQqMyxe6SePqewbpUFi459KqnOEIP3rZMZ7Np=s0",
-      "title": "Untitled • Mart",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_swHaR4-qKhjPvQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rw8KEeTkjewtiU_SvCU6Br6om_H4wIliHaoN6EcdXAeRiqscwbn3NpMlTxkLLLCzHZ-8gHMw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rw8KEeTkjewtiU_SvCU6Br6om_H4wIliHaoN6EcdXAeRiqscwbn3NpMlTxkLLLCzHZ-8gHMw=s0",
-      "title": "untitled • MAAT",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_tAHBMTFxf5c3Fw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q69auqcH78NfBqzzq3j0Wzr8-RodZqe6sc3rC32J4i7IKz17kB_DnJ47fqWMJKgjeWv-gj=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Q69auqcH78NfBqzzq3j0Wzr8-RodZqe6sc3rC32J4i7IKz17kB_DnJ47fqWMJKgjeWv-gj=s0",
-      "title": "Mindset • ADDFUEL; AIME",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -2127,19 +647,9 @@
       "id": "ART_tQH-8zyK-5r6nw",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QzkEpDjLXud2Omqt5IYl8gu-l2acwCi4xMmpy1T04GnCwuCkmfBIEW1qVEVJPqlg0D5dqbE2U=w1920-h1080-fcrop64=1,00003851fffffeef",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QzkEpDjLXud2Omqt5IYl8gu-l2acwCi4xMmpy1T04GnCwuCkmfBIEW1qVEVJPqlg0D5dqbE2U=s0-fcrop64=1,00003851fffffeef",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZh5ksdqs577mxBkBdsw9mh3qxDSNZRR9EyIdP8fw4_ZB0OiA69OaVC5-Wla1klMkamsoVlBU=w1920-h1080-fcrop64=1,00003851fffffeef",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TZh5ksdqs577mxBkBdsw9mh3qxDSNZRR9EyIdP8fw4_ZB0OiA69OaVC5-Wla1klMkamsoVlBU=s0-fcrop64=1,00003851fffffeef",
       "title": "Idle Hours • William Merritt Chase",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_tgEw49Qphwwqww",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SgZkbcR2AqS5PWm4DmU2ieocXiQPWLZINttXgONYH630QB_llWED8fbmDUT0Eienni_aO2zg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SgZkbcR2AqS5PWm4DmU2ieocXiQPWLZINttXgONYH630QB_llWED8fbmDUT0Eienni_aO2zg=s0",
-      "title": "Untitled • MAR",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -2147,29 +657,9 @@
       "id": "ART_tgG_JVnbFOxx3A",
       "category": "art-gallery",
       "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_9GgboMxWIMDvXnuVr1QEqO4vTfpB1znEgYAxFAjaKmjt-mk-b2Fm3k1t7erTza_S-NnrvkM=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_9GgboMxWIMDvXnuVr1QEqO4vTfpB1znEgYAxFAjaKmjt-mk-b2Fm3k1t7erTza_S-NnrvkM=s0",
+      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SMkQn8Yhj691lboJcRkoicUCjH3uqKtKjqCf62IgljvYAr_1B85WUu4hIojkuiYXdsprLWVZY=w1920-h1080",
+      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SMkQn8Yhj691lboJcRkoicUCjH3uqKtKjqCf62IgljvYAr_1B85WUu4hIojkuiYXdsprLWVZY=s0",
       "title": "A token of friendship • Arthur Collingridge",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_twEpP35km02Tzg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RGrEKOvj5V4xqbr_f7HECRPXxoFqaWWz5k4AWlIuxgep4mk_uKD1QhUQbpHhdqAoCA4MKCPsk=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RGrEKOvj5V4xqbr_f7HECRPXxoFqaWWz5k4AWlIuxgep4mk_uKD1QhUQbpHhdqAoCA4MKCPsk=s0",
-      "title": "Untitled • Mart",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_twEppRAPJrxrdw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RRJjgGNZOinF4uSbpGmYKlGPAyeUTW7QEAPqyCAfluUiM-PnkoKinGDBrIMKKyMdmz9WVCYA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RRJjgGNZOinF4uSbpGmYKlGPAyeUTW7QEAPqyCAfluUiM-PnkoKinGDBrIMKKyMdmz9WVCYA=s0",
-      "title": "Untitled - ( Hidden Bird ) • DALeast",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     },
@@ -2190,176 +680,6 @@
       "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tx6iVMVGVcSTZADVI3RDmFCWb5eJx-h4UkoCNE2S3KWR-NU2Zf0wFzkVEE-6J33pN_AtrTzg=w1920-h1080",
       "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Tx6iVMVGVcSTZADVI3RDmFCWb5eJx-h4UkoCNE2S3KWR-NU2Zf0wFzkVEE-6J33pN_AtrTzg=s0",
       "title": "Mulheres (Tanger) • Dario Villares Barbosa",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_uQFnnELt3uTTQg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVsX9Cvnf7Esrpe6oh5DCD1b_ZwF6Q2s5wL5RF2vwhdeu9bn2B3MmaBJJUUy5GDvYcEBnnV7w=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QVsX9Cvnf7Esrpe6oh5DCD1b_ZwF6Q2s5wL5RF2vwhdeu9bn2B3MmaBJJUUy5GDvYcEBnnV7w=s0",
-      "title": "untitled • Tinta Crua",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_uQHvAVzhIIaokw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T2KhipjJwbUQsPDleLF6mAz70wFPu66chIzG3kk7Z88RrXY4i_L08Ub3LuyjGJS_-8WZ8rf3xN=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T2KhipjJwbUQsPDleLF6mAz70wFPu66chIzG3kk7Z88RrXY4i_L08Ub3LuyjGJS_-8WZ8rf3xN=s0",
-      "title": "unknown • Curiot",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ugE6uM_PT7-VCg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S0X4KlsnByo4Tju2DOd9c2-TTGezuXvb6yIXFkFNr1T_TQMvx65fAfDlKMyj01l_R-jIU7PqA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S0X4KlsnByo4Tju2DOd9c2-TTGezuXvb6yIXFkFNr1T_TQMvx65fAfDlKMyj01l_R-jIU7PqA=s0",
-      "title": "Untitled • Defi",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ugGqEw8_Y1ednQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qf4IgnJ39L5b_FcuXdu688_QIwcS4CknaqxKEaACg4ReumLQAgiF6MmQgyREFVm1mgjs5sXsQ=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Qf4IgnJ39L5b_FcuXdu688_QIwcS4CknaqxKEaACg4ReumLQAgiF6MmQgyREFVm1mgjs5sXsQ=s0",
-      "title": "Untitled • Jaz",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_uwEU3DLRPJzgAQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TyCGUQJN3ESw7NKky1TJFroTj6i7J5g96H2ibS47WbXU9mWNdElKO58Z-LXJhQ8LqIAzRKQWNv=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TyCGUQJN3ESw7NKky1TJFroTj6i7J5g96H2ibS47WbXU9mWNdElKO58Z-LXJhQ8LqIAzRKQWNv=s0",
-      "title": "Untitled • Blu",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_vwHRRIpVdYXESg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_TMnt674p7eX-94YUwhJh_h7WEdNDhfrJ2tnUVE9qymIrsQidmvjWzDfDPgZxldPhotZmMvEHU=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_TMnt674p7eX-94YUwhJh_h7WEdNDhfrJ2tnUVE9qymIrsQidmvjWzDfDPgZxldPhotZmMvEHU=s0",
-      "title": "POW! WOW! Taiwan 2014 - Aaron De La Cruz and Rone Mural Detail • Aaron De La Cruz, Rone",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_vwHbatAfTycXbg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QnWsuYm-gzT5A1spzGFPnSqEL3PS1-xKrTNmi_jse_hxIovnL5ALfT_-rl0QTTjKg4_Bz9Umk=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QnWsuYm-gzT5A1spzGFPnSqEL3PS1-xKrTNmi_jse_hxIovnL5ALfT_-rl0QTTjKg4_Bz9Umk=s0",
-      "title": "The Ones We Love • Sarah C. Rutherford",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_wAF8bxCCPTXOZQ",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SFEFraKX6lZ8vLpjWjUr0fwDjxDh1Yn8-6oIEIVnaxUUPZAbKwW4Z53ODKjy75HF-FSkplz-_f=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SFEFraKX6lZ8vLpjWjUr0fwDjxDh1Yn8-6oIEIVnaxUUPZAbKwW4Z53ODKjy75HF-FSkplz-_f=s0",
-      "title": "The Translation of St Rita of Cascia (detail) • RUN",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_wAFPb_2yXf9ieg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QdT2J2iEoT_3OYeYTuZYKfOu5Ej0NPSY86KNFqSv4-VF-qyayyNzrHnC14NqSwjpBfsfZxYWM=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QdT2J2iEoT_3OYeYTuZYKfOu5Ej0NPSY86KNFqSv4-VF-qyayyNzrHnC14NqSwjpBfsfZxYWM=s0",
-      "title": "Evening Star • Shawnee Hill",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_wQFs-P44cW5K0w",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_R8EL7xcDlPerGJwPv4QdpMKDcWFHj8e9-V06wKN9sHKrp5lKrFiMAe7BdbgNsfx-Yibz96zg=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_R8EL7xcDlPerGJwPv4QdpMKDcWFHj8e9-V06wKN9sHKrp5lKrFiMAe7BdbgNsfx-Yibz96zg=s0",
-      "title": "Untitled - (Birds) • Labrona",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_wwGNKFFrpJMNIA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_cKFHTSVzTm9fkvBWcnqJDdNM1_YiW3trLKDaKLNmZemJtl7JZFfrsEiBUX1AbuQvvRnX=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_T_cKFHTSVzTm9fkvBWcnqJDdNM1_YiW3trLKDaKLNmZemJtl7JZFfrsEiBUX1AbuQvvRnX=s0",
-      "title": "Living Nature • José Carvalho and Tamara Alves",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_wwH97S8MbTAvmw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_S69x-q3M3t40mXvgYhqdA9HhfYfIaxAQdOj5EtCRT9CIT7vbrrJ6cfUYblvYu8lzjznrmi=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_S69x-q3M3t40mXvgYhqdA9HhfYfIaxAQdOj5EtCRT9CIT7vbrrJ6cfUYblvYu8lzjznrmi=s0",
-      "title": "Untitled • PixelPancho",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_xAG1ZDxZ6blT8A",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQ-BwF9Tj3fmg2GDi_dum-dQ3akZHwfIjU1xn78pHVGJ_2sVkkaUxWV0hbd3k7ljtVwQ8rfA=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_RQ-BwF9Tj3fmg2GDi_dum-dQ3akZHwfIjU1xn78pHVGJ_2sVkkaUxWV0hbd3k7ljtVwQ8rfA=s0",
-      "title": "POW! WOW! Hawaii 2012 - Robot Friends Mural • Ryuichi Ogino",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_xwHZRiB9dQ9QAg",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SiX4lPxvrCOyHJn7Yc0Oj6MCSfHhjlhwYZEiJ8R0TzAfXo-a8lUcIyUgcMgKLYkfgFekuAyw=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SiX4lPxvrCOyHJn7Yc0Oj6MCSfHhjlhwYZEiJ8R0TzAfXo-a8lUcIyUgcMgKLYkfgFekuAyw=s0",
-      "title": "Untitled • Mart",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_ygEM-DgVT6nZ3Q",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_QMo2_sesopMraRxhgqgJVABu0YRv59UBo9_LtUkkIF-dV4wKQ4g2KGRPhgu2d-CM6BbnTT-RY=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_QMo2_sesopMraRxhgqgJVABu0YRv59UBo9_LtUkkIF-dV4wKQ4g2KGRPhgu2d-CM6BbnTT-RY=s0",
-      "title": "Untitled • Liliwenn",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_zAFfBESDm23OiA",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_SZBVkX_OZGMWffJoWj4YQ-IFua_Rcr-WTpxPqQlo7vcKt_RqVTCJ0kIywu1FzLY_nu7PkHImti=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_SZBVkX_OZGMWffJoWj4YQ-IFua_Rcr-WTpxPqQlo7vcKt_RqVTCJ0kIywu1FzLY_nu7PkHImti=s0",
-      "title": "Glory • EL PEZ",
-      "attribution": "Google Arts & Culture",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "ART_zgFppH2BnBx2Mw",
-      "category": "art-gallery",
-      "source": 9,
-      "url-1080": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rck7x9NcC-dniaqm1FqxqbSoWbkT1r7hS1Xkh4BEItQ2gAPa1m78SrsmQ620_WlObF2mwY-0Q=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/ci/AL18g_Rck7x9NcC-dniaqm1FqxqbSoWbkT1r7hS1Xkh4BEItQ2gAPa1m78SrsmQ620_WlObF2mwY-0Q=s0",
-      "title": "untitled • Pantónio",
       "attribution": "Google Arts & Culture",
       "added": "2026-07-04"
     }
