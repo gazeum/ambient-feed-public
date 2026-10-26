@@ -1,7 +1,7 @@
 {
   "category": "google-photos",
   "name": "Google Photos",
-  "count": 411,
+  "count": 410,
   "photos": [
     {
       "id": "AF1QipM-3STDahQZIfY_HBTj4U_zK_IOI1dsyh6yKp_B",
@@ -2332,15 +2332,6 @@
       "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzTgX3zlVHRIlsKj9Eb415p2MuQvl0HYJGpR4RufoekpYekRo9oXcRO_HZwiy7_KLHKIbWrRH_CEdpjpKtsp8PAosPsAu-eFQsvjmGQ_6P5h5ILrWKt=w1920-h1080",
       "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzTgX3zlVHRIlsKj9Eb415p2MuQvl0HYJGpR4RufoekpYekRo9oXcRO_HZwiy7_KLHKIbWrRH_CEdpjpKtsp8PAosPsAu-eFQsvjmGQ_6P5h5ILrWKt=s0",
       "author": "Alex N. Jose",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "AF1QipORl0TIjwepvN6evs-fN1nlJivaVpSUkX6bjQrV",
-      "category": "google-photos",
-      "source": 7,
-      "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywRm8WIAsImPyTWyuykBE0EUe97lF82sYIkkLwAGb6Q_ytU0paiV3nN4rVl6n9vNmsxXyvMXX4HgrXrakGy1TUrJ0TumANngTYf30HuLKu1SVJP0gLf=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywRm8WIAsImPyTWyuykBE0EUe97lF82sYIkkLwAGb6Q_ytU0paiV3nN4rVl6n9vNmsxXyvMXX4HgrXrakGy1TUrJ0TumANngTYf30HuLKu1SVJP0gLf=s0",
-      "author": "Michael Fang",
       "added": "2026-07-04"
     },
     {
