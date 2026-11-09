@@ -1,7 +1,7 @@
 {
   "category": "google-photos",
   "name": "Google Photos",
-  "count": 410,
+  "count": 408,
   "photos": [
     {
       "id": "AF1QipM-3STDahQZIfY_HBTj4U_zK_IOI1dsyh6yKp_B",
@@ -145,15 +145,6 @@
       "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywJzjUe4WX8JyNM14-SaEKEBRXeuIJsXk8JZ3DTdUDwMH1GqNpB20CEO0zgpw7GsbObXVA-58W_SBSXtrOnyjV0L3vTRf6ttj46ir21ftUThNibdPLc=w1920-h1080",
       "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywJzjUe4WX8JyNM14-SaEKEBRXeuIJsXk8JZ3DTdUDwMH1GqNpB20CEO0zgpw7GsbObXVA-58W_SBSXtrOnyjV0L3vTRf6ttj46ir21ftUThNibdPLc=s0",
       "author": "André Moleiro",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "AF1QipMATjDLkWVBzsWCR4YpWqrUaf6gVp3ckED1Qb6N",
-      "category": "google-photos",
-      "source": 7,
-      "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywf7J16CW7ANzhw6xxw7K_eDwzHF8ZN0RHs-3sZPQO3eNIrpgMDKVCai2gHdO0dJKWpwyVzvX7PnPDbT6u93LZiNzQuddENh9j3qVRsLJCsc_eqyq3m=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywf7J16CW7ANzhw6xxw7K_eDwzHF8ZN0RHs-3sZPQO3eNIrpgMDKVCai2gHdO0dJKWpwyVzvX7PnPDbT6u93LZiNzQuddENh9j3qVRsLJCsc_eqyq3m=s0",
-      "author": "Oleg Ace",
       "added": "2026-07-04"
     },
     {
@@ -352,15 +343,6 @@
       "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxf49qc_28xJ4wFW_9qo61jDdqdoPx1Op4QMxwW23bWa2WXDwbTP8MarixKzQxhE4ULzhlDSSKBxFVaayrrmNkdaPfscczLnmxwvOpOoqJGzU1RssEQ=w1920-h1080",
       "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxf49qc_28xJ4wFW_9qo61jDdqdoPx1Op4QMxwW23bWa2WXDwbTP8MarixKzQxhE4ULzhlDSSKBxFVaayrrmNkdaPfscczLnmxwvOpOoqJGzU1RssEQ=s0",
       "author": "Enxun Wei",
-      "added": "2026-07-04"
-    },
-    {
-      "id": "AF1QipMKwwciQ2q7zkcrTaBHa69vbDOvia2WjEz2ei1q",
-      "category": "google-photos",
-      "source": 7,
-      "url-1080": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzwGWNi375f_tovw0ZmZtk6y5Hdq_PekLAMp5yQSCT4THGZuGair4M9m38enJI-9a_-fqVIlkD8M7aKfBrM19cQ9AKDL0Okgmk_baxcKQcL7Tt6pzyP=w1920-h1080",
-      "url-4K": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzwGWNi375f_tovw0ZmZtk6y5Hdq_PekLAMp5yQSCT4THGZuGair4M9m38enJI-9a_-fqVIlkD8M7aKfBrM19cQ9AKDL0Okgmk_baxcKQcL7Tt6pzyP=s0",
-      "author": "Antariksh Bothale",
       "added": "2026-07-04"
     },
     {

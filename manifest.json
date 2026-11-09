@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-11-02T14:20:39Z",
-  "total": 2879,
+  "generated": "2026-11-09T14:48:17Z",
+  "total": 2877,
   "sources": [
     {
       "id": "art-gallery",
@@ -27,8 +27,8 @@
     {
       "id": "google-photos",
       "name": "Google Photos",
-      "description": "410 images",
-      "count": 410,
+      "description": "408 images",
+      "count": 408,
       "manifestUrl": "https://raw.githubusercontent.com/gazeum/ambient-feed-public/main/categories/google-photos/entries.json"
     }
   ]
